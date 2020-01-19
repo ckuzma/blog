@@ -1,11 +1,3 @@
----
-layout: post
-title: Got my first Windows Phone 7 device!
-date: '2011-12-14T14:30:00.002-08:00'
-author: Christopher Kuzma
-tags: 
-modified_time: '2011-12-14T14:30:45.730-08:00'
-thumbnail: http://3.bp.blogspot.com/-tTY-OKSQtQA/TukU1JGqziI/AAAAAAAAA8U/7FSTW0aa4xI/s72-c/DSC_0129.JPG
----
+
 
 <div class="separator" style="clear: both; text-align: center;"><a href="http://3.bp.blogspot.com/-tTY-OKSQtQA/TukU1JGqziI/AAAAAAAAA8U/7FSTW0aa4xI/s1600/DSC_0129.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="212" src="http://3.bp.blogspot.com/-tTY-OKSQtQA/TukU1JGqziI/AAAAAAAAA8U/7FSTW0aa4xI/s320/DSC_0129.JPG" width="320" /></a></div>Whoa. For the most part, yesterday was quite an eventful day for me. At least in terms of buying stuff I've been saving up to buy. First I setup a meet to pick up a Dell Venue Pro, the phone you see pictured above, using money from the sale of my iPhone 3G. While killing time till the meeting I had agreed upon, I decided to call AT&amp;T to check up on my Motorola Atrix 4G Laptop Dock's order status. The lady informed me that the docks had become back-ordered but not to worry, as I'd probably be getting an email in a day or two informing me that the dock had shipped. Content, I went and made a sandwich downstairs. However, my bliss was short lived.<br /><a name='more'></a><br /><br /><br />Barely had I taken a bite out of my sandwich than my phone beeped to signify a new email. I checked it and the subject line got my heart racing, because it was from AT&amp;T. The body, however, caused annoyance. Apparently my order had been cancelled for no apparent reason. I ran to the Motorola Atrix online forums to figure out if this had happened to anyone else, and it sure enough I wasn't alone. At the suggestion of one of the members of these forums, I called a local store and explained my situation. Long story short: they were more than happy to match the online price I had originally ordered a dock for, even though that price had now changed. On top of that, they were willing to sell me the only two docks they had in the store for that price! So, naturally, I nabbed both. Though now I do feel a bit stupid for doing so... what need have I of two docks? I could perhaps sell one...<br /><br />But regardless, I'm now getting to know the foibles of a Windows Phone 7 device. Not having the smoothest transition to it, but it's thus far quite a pleasant learning experience regardless! More to come later on, naturally.

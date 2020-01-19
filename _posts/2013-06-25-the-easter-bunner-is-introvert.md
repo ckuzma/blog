@@ -1,16 +1,3 @@
----
-layout: post
-title: The Easter Bunny Is An Introvert
-date: '2013-06-25T12:43:00.002-07:00'
-author: Christopher Kuzma
-tags:
-- bunny
-- psychological
-- dream
-- easter
-- superman
-modified_time: '2013-06-25T12:43:57.558-07:00'
-thumbnail: http://4.bp.blogspot.com/-xAQfmqRaX_o/UcnyyHCyAaI/AAAAAAAADX0/LmOlkz0cs1Q/s72-c/IMG_20130621_183540.jpg
----
+
 
 <div class="separator" style="clear: both; text-align: center;"><a href="http://4.bp.blogspot.com/-xAQfmqRaX_o/UcnyyHCyAaI/AAAAAAAADX0/LmOlkz0cs1Q/s1600/IMG_20130621_183540.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="http://4.bp.blogspot.com/-xAQfmqRaX_o/UcnyyHCyAaI/AAAAAAAADX0/LmOlkz0cs1Q/s320/IMG_20130621_183540.jpg" width="288" /></a></div><div class="MsoNormal" style="margin-bottom: .0001pt; margin-bottom: 0in;"><br /></div><div class="MsoNormal" style="margin-bottom: .0001pt; margin-bottom: 0in;"><br /></div><div class="MsoNormal" style="margin-bottom: .0001pt; margin-bottom: 0in;">One of my projects for a high school psychology class was to perform a psychological analysis of a subject and present my findings. Whereas my peers elected to base their projects on popular public figures, I decided to rise above the mundane… My subject was the Easter bunny.<o:p></o:p></div><div class="MsoNormal" style="margin-bottom: .0001pt; margin-bottom: 0in;"><br /></div><div class="MsoNormal" style="margin-bottom: .0001pt; margin-bottom: 0in;">While it might have been expected that my presentation be met with snickers and teasing, it instead encountered a considerable amount of debate. What was supposed to be a five minute speech very soon became a thirty minute discussion. Were someone not familiar with my imaginary subject, they might have mistaken the opinions being voiced to have been a description belonging to a real, if furtive, rabbit. Each of my peers had their own take on the Easter bunny’s persona and none of them were quite willing to abandon it despite admitting to the character’s imaginary existence.<o:p></o:p></div><div class="MsoNormal" style="margin-bottom: .0001pt; margin-bottom: 0in;"><br /></div><div class="MsoNormal" style="margin-bottom: .0001pt; margin-bottom: 0in;">That presentation experience, which did render me an A+ project grade, was a delightful example of a healthy debate. Not one of my peers were ready to abandon their idealized image of a fictional rabbit, yet none of them were in the slightest way offended by their neighbors’ differing views on the matter. And that’s what healthy debate is supposed to be.<o:p></o:p></div><div class="MsoNormal" style="margin-bottom: .0001pt; margin-bottom: 0in;"><br /></div><br /><div class="MsoNormal" style="margin-bottom: .0001pt; margin-bottom: 0in;">Which leads me into a question that I came up with yesterday… what does Superman dream about? If he were to have a dream in which he exists as a normal human being, would he view this as a horrific experience or a refreshing liberation from his supernatural calling?<o:p></o:p></div>

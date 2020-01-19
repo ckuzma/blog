@@ -1,11 +1,3 @@
----
-layout: post
-title: Lumia 710 Xpress-On Cover
-date: '2012-05-23T10:43:00.001-07:00'
-author: Christopher Kuzma
-tags: 
-modified_time: '2012-05-23T10:54:55.637-07:00'
-thumbnail: http://4.bp.blogspot.com/-1Ipegtunoak/T70h1_Z1NAI/AAAAAAAABUs/PHnL4Fw86pg/s72-c/WP_000166-731011.jpg
----
+
 
 <div class="mobile-photo"><a href="http://4.bp.blogspot.com/-1Ipegtunoak/T70h1_Z1NAI/AAAAAAAABUs/PHnL4Fw86pg/s1600/WP_000166-731011.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5745785911031182338" src="http://4.bp.blogspot.com/-1Ipegtunoak/T70h1_Z1NAI/AAAAAAAABUs/PHnL4Fw86pg/s320/WP_000166-731011.jpg" /></a></div><div><div style="font-family: Calibri,sans-serif; font-size: 11pt;"><br />After a short, couple-week long wait, my Lumia 710 Xpress-On cover arrived! I ordered the blue color, and although it might looking better with the white 710, it looks quite nice on my black variety. Although it doesn't have the glossiness of the yellow cover, it doesn't have the rubberized soft-touch feel of the original black backing. Instead it's more of a matte plastic that feels very similar to that used on the Lumia 800 and 900 phones.<br /><br />Now I I really like the feel of those higher-end phones, but I have to wonder how the choice for material composition was made. Rubberized on some, matte on others and glossy on the rest. Why the inconsistency? In the case of the blue, it gives the phone an interesting grip sensation, as the front of the phone, being glossy, offers grip while the rear, being matte, remains slicker. I had a yellow glossy back on and this resulted in very easy to hold phone, but without the extra premium feel of the matte or rubberized backs. I don't know what to make of all of it.<br /><br />For now, I actually have gone back to the black back. I simply find it to be a bit more usable and versatile, given that is also doesn't clash with my WP7 color themes that I choose to match my mood. (On a side note, Microsoft really needs to rethink the hues of some of these.)</div></div>

@@ -1,16 +1,3 @@
----
-layout: post
-title: 'My First True Camera-Phone: i-mobile 902'
-date: '2013-03-21T18:00:00.001-07:00'
-author: Christopher Kuzma
-tags:
-- '902'
-- phone
-- i-mobile
-- samart
-- camera
-modified_time: '2013-03-21T18:00:16.094-07:00'
-thumbnail: http://3.bp.blogspot.com/-9ku2K5e2FGs/UUufTqN1qUI/AAAAAAAAC9M/1wsHQ9651as/s72-c/DSCF0633.JPG
----
+
 
 <div class="separator" style="clear: both; text-align: center;"><a href="http://3.bp.blogspot.com/-9ku2K5e2FGs/UUufTqN1qUI/AAAAAAAAC9M/1wsHQ9651as/s1600/DSCF0633.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="480" src="http://3.bp.blogspot.com/-9ku2K5e2FGs/UUufTqN1qUI/AAAAAAAAC9M/1wsHQ9651as/s640/DSCF0633.JPG" width="640" /></a></div><br />While sorting through some photos on my hard-drive (after having realized that I accidentally deleted the full-size originals from my Rome trip and only saved the downgraded edits), I came across a picture of one of my first true camera-phones: the Samart i-Mobile 902. It was capable of producing 8.0 megapixel images (via interpolation) but could shoot at an impressive (for the time) 5.0 megapixels natively.<br /><br />Here's an interesting tidbit: my 902 shipped with a Sony Ericsson headset. Now, the image sensor built into this phone is the same as that found in Sony's similar offerings of the time (if &nbsp;memory serves me right, the K850i was one of them), but that doesn't explain the inclusion of Sony Ericsson earbuds. These earbuds even turned out to be surprisingly good, both in the build-quality and sound departments. In fact, they became my go-to set of earbuds against which I compared everything- right up until the moment of a tragic accident involving and office chair commissioned them to the trash bin.<br /><br /><div class="separator" style="clear: both; text-align: center;"><a href="http://4.bp.blogspot.com/-rU7wvPlzooE/UUujqvtheUI/AAAAAAAAC9U/v0lke1YdyhA/s1600/DSCF1192.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="480" src="http://4.bp.blogspot.com/-rU7wvPlzooE/UUujqvtheUI/AAAAAAAAC9U/v0lke1YdyhA/s640/DSCF1192.JPG" width="640" /></a></div><div class="separator" style="clear: both; text-align: center;"><a href="http://4.bp.blogspot.com/-_DrHy5tmC4I/UUupdWEiP0I/AAAAAAAAC9c/HSSeNM9lsh4/s1600/DSCF0634.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="480" src="http://4.bp.blogspot.com/-_DrHy5tmC4I/UUupdWEiP0I/AAAAAAAAC9c/HSSeNM9lsh4/s640/DSCF0634.JPG" width="640" /></a></div><br />Would I buy another one of these phones? Probably not. The N93 and N82 I owned before and after (respectively) were both better phones and, in their own way, better cameras. But the 902 was a great deal and definitely a fun phone to have.

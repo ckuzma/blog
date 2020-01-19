@@ -1,16 +1,3 @@
----
-layout: post
-title: 'Closet Treasures: Peek9'
-date: '2013-02-17T21:51:00.005-08:00'
-author: Christopher Kuzma
-tags:
-- '9'
-- peek
-- minidisc
-- smartphone
-- cybiko
-modified_time: '2013-02-17T21:51:40.423-08:00'
-thumbnail: http://2.bp.blogspot.com/-2f1y_gb1SuM/UR6GH9Cn7-I/AAAAAAAACt0/Hgqqg-PKOaQ/s72-c/DSC_3778.JPG
----
+
 
 <div class="separator" style="clear: both; text-align: center;"><a href="http://2.bp.blogspot.com/-2f1y_gb1SuM/UR6GH9Cn7-I/AAAAAAAACt0/Hgqqg-PKOaQ/s1600/DSC_3778.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="424" src="http://2.bp.blogspot.com/-2f1y_gb1SuM/UR6GH9Cn7-I/AAAAAAAACt0/Hgqqg-PKOaQ/s640/DSC_3778.JPG" width="640" /></a></div>Once in a while, I like to rummage in my storage bins and pull out devices that I've tucked away. Part of the reason for why I do this is to determine whether or not I should be selling or somehow getting rid of of the things that clutter my closet. (I like to keep things neat and tidy, so when I write <i>clutter</i>&nbsp;I really mean <i>take up space</i>, as most everything is actually kept in a very particular order.) However I sometimes just like to pull something out and play with it a few minutes, just to try and remember why I'd bought it in the first place.<br /><br />I decided to pull down my Peek from its shelf this go around. Ah, the Peek. Part award-winning gadget and part simplified email service, the Peek9 device stashed away in my closet is one of my favorite treasures. This particular unit has never, not once, been used. I'd owned one of the original devices (non-Pronto), the result of an impulse buy when curiosity got the better of me upon seeing the thing being sold for ten bucks flat in a store. I even decided to prepay for a month of Peek email service (at the time I had no data on my own cell phone), to see if it was worth anything. The slow speed of the software and my inability to justify continue paying for the service rendered the Peek experiment over at the end of that month, when I cancelled service and decided that a tear-down to see what makes the Peek tick would be a fun way to spend an evening. After that, I threw away the remains and Peek faded from my memory.<br /><br />Until I received an email. It seems that I was somehow included in the list of recipients that were sent the offer for a free- not including shipping- Peek9 device upgrade in exchange for continued loyalty. Despite the fact that I was not a current customer of Peek, I was eligible for the upgrade offer. With my curiosity once again piqued (sorry, couldn't resist), I sent off my request for a replacement device. It wasn't until a few months later that I was actually able to hold the Peek9 in my own hands, the result of my not returning Stateside for quite some time. Once I did, I never bothered to activate the Peek9. I'd long since added data service to my smartphone and had no interest in paying for a superfluous service. Instead, I simply poked at the device a little bit then shelved it away in its box. Someday in the future it may have a use, or maybe it will be collectible. Who knows. But for now I'm content to simply store it away, just like my Cybiko and MiniDisc player, till the day that I get to share it with someone else.

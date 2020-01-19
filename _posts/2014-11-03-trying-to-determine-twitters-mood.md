@@ -1,15 +1,3 @@
----
-layout: post
-title: Trying to Determine Twitter's Mood
-date: '2014-11-03T08:07:00.002-08:00'
-author: Christopher Kuzma
-tags:
-- twitter
-- arduino
-- mood
-- nlp
-modified_time: '2014-11-03T08:07:38.156-08:00'
-thumbnail: http://2.bp.blogspot.com/-obFR_xy_IaY/VFamFAfJg6I/AAAAAAAAGLY/xLoOBHCJvbE/s72-c/Screen%2BShot%2B2014-11-02%2Bat%2B4.38.05%2BPM.png
----
+
 
 <div class="separator" style="clear: both; text-align: center;"><a href="http://2.bp.blogspot.com/-obFR_xy_IaY/VFamFAfJg6I/AAAAAAAAGLY/xLoOBHCJvbE/s1600/Screen%2BShot%2B2014-11-02%2Bat%2B4.38.05%2BPM.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://2.bp.blogspot.com/-obFR_xy_IaY/VFamFAfJg6I/AAAAAAAAGLY/xLoOBHCJvbE/s1600/Screen%2BShot%2B2014-11-02%2Bat%2B4.38.05%2BPM.png" height="312" width="400" /></a></div><br />One of the projects that I'd seen that spurred me into buying an Arduino last year was an <a href="http://www.instructables.com/id/Twitter-Mood-Light-The-Worlds-Mood-in-a-Box/" target="_blank">Instructable for a so-called "Twitter Mood Light."</a>&nbsp;As a quickly found out- and as is pointed out in the instruction's comments- the code found there no longer works as-is. That's mostly because Twitter has changed its API formatting, and partly because using OAuth authentication is now a requirement.<br /><br />Until my Arduino-compatible WiFi radio arrives, however, most of the code written for the Arduino is more or less useless to me anyway, as I have to physically tether through my computer in order to access the internet. So why not just build upon <a href="http://blog.christopherkuzma.com/2014/10/wittydevices-twitterwit-nlp-applications.html" target="_blank">my last project</a> and build a health bar symbolizing Twitter's mood in live time? I set out to write a new Java interface to do just that, leaving my existing Arduino program untouched.<br /><br />The result is a program that queries Twitter for the most recent tweets containing the hashtags <i>#happy</i>&nbsp;and <i>#sad</i>. Based upon the ratio of them, a not-very-descriptive "happy value" is derived, with 30 being entirely happy tweets observed and 0 being the exact opposite. It's an oversimplification of what hashtags actually mean, but for the time being it at least does manage to cause a seemingly random pattern of lights to illuminate on the breadboard connected to the Arduino.<br /><br />I'm planning on working things to derive a more accurate scale of happiness, but for now I'm sharing the code as-is for your enjoyment (and suggestions). You can find it here:<br /><br /><div style="text-align: center;"><a href="https://github.com/ckuzma/TwitterMood" target="_blank">TwitterMood (on GitHub)</a></div><br /><br /><br />

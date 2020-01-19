@@ -1,10 +1,3 @@
----
-layout: post
-title: samsung galaxy s (i9000) unboxing
-date: '2011-03-27T11:28:00.000-07:00'
-author: Christopher Kuzma
-tags: 
-modified_time: '2014-03-26T20:51:14.769-07:00'
----
+
 
 <a href="http://meinfruhstuck.files.wordpress.com/2011/03/dsc_0108.jpg"><img class="alignnone size-full wp-image-801" title="DSC_0108" src="http://meinfruhstuck.files.wordpress.com/2011/03/dsc_0108.jpg" alt="" width="500" height="332" /></a><br/><br/>With a phone design that sort of mocks the iPhone, it would seem like mimicking the packaging was the next logical move to the team at Samsung working on this phone. With a box roughly the same size as the one which each iPhones comes in, I can only draw one of two conclusions... either Apple was onto something with their minimalist packaging or Samsung simply decided to take a page out of the same book and apply it to their own product. In this case, I cannot fault Samsung, as the box itself is actually quite classy. Even the ink used has a weird texture and shimmer to it, which manage to attract inspection. Good job there.<a name='more'></a><br/><br/>Opening the box, one is greeted to thedevice itself cradled in foam, much similar to the iPhone would be. In fact, since this was my first Android handset, and I was a bit apprehensive about the whole affair, this "familiarity" actually managed to comfort me to a degree. The packaging logic, copied or not, is very high-end in appearance and intuitive. Pull out the phone and a little paper tab is revealed. Pull that, and the foam cradle lifts out, revealing another paper pull-tab. Pull that a little box comes out with it, containing all of the documentation and warranty information. Underneath it is now revealed a tray, containing a microUSB cable, batter, AC adapter and some in-ear headphones, the type with the rubber seal. (Which unfortunately didn't stay in my ears very well at all... oh well, I have headphones I like already.)<br/><br/>Since I was raring to get going, I popped in the battery and got cracking. More on that later.<br/><br/>[gallery link="file" columns="2"]

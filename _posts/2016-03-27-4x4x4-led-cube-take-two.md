@@ -1,15 +1,3 @@
----
-layout: post
-title: 4x4x4 LED Cube, Take Two
-date: '2016-03-27T16:40:00.004-07:00'
-author: Christopher Kuzma
-tags:
-- cube
-- led
-- arduino
-- 4x4x4
-modified_time: '2016-03-27T16:40:54.330-07:00'
-thumbnail: https://1.bp.blogspot.com/-q7Q9-GfK9HM/VvhHiAaPdbI/AAAAAAAAIXU/WCuuutGzzx4FW9r6Ap6FaVvVtamiP0dSg/s72-c/DSC_8162.JPG
----
+
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://1.bp.blogspot.com/-q7Q9-GfK9HM/VvhHiAaPdbI/AAAAAAAAIXU/WCuuutGzzx4FW9r6Ap6FaVvVtamiP0dSg/s1600/DSC_8162.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="263" src="https://1.bp.blogspot.com/-q7Q9-GfK9HM/VvhHiAaPdbI/AAAAAAAAIXU/WCuuutGzzx4FW9r6Ap6FaVvVtamiP0dSg/s400/DSC_8162.JPG" width="400" /></a></div><br />A little over a year ago <a href="http://blog.christopherkuzma.com/2015/02/4x4x4-led-cube-powered-by-arduino.html">I built a 4x4x4 LED cube</a> controlled by an Arduino microcontroller. Despite its flaws (including a super sketchy design and one LED that failed to ever illuminate) I was quite happy with how it turned out. Alas, I didn't get to spend a lot of time with it as I was forced to give it away when I couldn't take it with me when I left Indiana.<br /><br />When I moved to New York City this past summer I decided to build myself a new and better one. So I sat down one evening in August and did exactly that, recording the entire two and a half hour build in a series of <a href="https://www.youtube.com/watch?v=mDuIdNEDxZQ">photos I converted into a time-lapse video</a>. Oh, and this time I managed to avoid burning myself, something I did multiple times when building the first cube.<br /><a name='more'></a><br /><br /><div class="separator" style="clear: both; text-align: center;"><a href="https://1.bp.blogspot.com/-VqxHAlXAv80/VvhslT0OKkI/AAAAAAAAIXk/5jbkFUmF2EcMWIIvZTVMuwnvz2S10LAhA/s1600/DSC_8165.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="263" src="https://1.bp.blogspot.com/-VqxHAlXAv80/VvhslT0OKkI/AAAAAAAAIXk/5jbkFUmF2EcMWIIvZTVMuwnvz2S10LAhA/s400/DSC_8165.JPG" width="400" /></a></div><br />One of the biggest changes I made was to permanently wire everything to a spare Arduino Nano board that I had laying around. In doing so I was able to avoid the "ziptie sandwich" design of the previous cube.<br /><br /><div class="separator" style="clear: both; text-align: center;"><a href="https://3.bp.blogspot.com/-7qoCHtF8xSQ/VvhuCS0SqgI/AAAAAAAAIXw/mymShnTqZJ82d2MsddOWcNxqcRMnFOYIA/s1600/DSC_8164.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="263" src="https://3.bp.blogspot.com/-7qoCHtF8xSQ/VvhuCS0SqgI/AAAAAAAAIXw/mymShnTqZJ82d2MsddOWcNxqcRMnFOYIA/s400/DSC_8164.JPG" width="400" /></a></div><br />I also tried to make my life a bit easier and opted to use just four resistors as opposed to the sixteen employed on the first cube. The result is noticeably dimming when all of the LEDs are illuminated, but it's a decision I don't regret.<br /><br />Oh, and the best part? Every single LED continues to work to this day.
