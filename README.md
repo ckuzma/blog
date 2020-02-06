@@ -1,7 +1,8 @@
-# ckuzma blog
+# The Blog of Christopher Kuzma
+> https://github.com/ckuzma/blog
+----
 
-## Navigation
-- [All Posts](/posts)
-- [Author Homepage](https://ckuzma.github.io/)
+## [Archives](/posts)  || About
 
-## Recent Post
+## Recent Posts
+

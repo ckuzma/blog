@@ -1,4 +1,4 @@
-# RGB LED Matrix Board Litebrite
+# RGB LED Matrix Board - "The Litebrite"
 
 ## Background
 A little over a year ago, back when I was still in New York, I decided to build an Alexa-enabled low-resolution RGB LED display. What I thought would be a quick project wound up taking a couple of months from start to finish, and even then the final product was not at all what I had been hoping to create. But I learned a lot along the way!Below are photos I took during the process. I also published the final code (for that board, anyway) to [a GitHub repository](https://github.com/ckuzma/nodemcu-as-arduino/tree/master/Sketches/LED%20Board) I created for NodeMCU+Arduino sketches.
