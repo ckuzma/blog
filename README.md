@@ -1,4 +1,4 @@
-### [Blog Homepage](https://github.com/ckuzma/blog) | [About the Author] | [Posts Archive](/posts)
+### [Blog Homepage](https://github.com/ckuzma/blog) | [About the Author](https://ckuzma.github.io/) | [Posts Archive](/posts)
 # The Blog of Christopher Kuzma
 
 ## Recent Posts
