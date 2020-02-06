@@ -1,4 +1,7 @@
-# Old Tech Review: RIM Blackberry 7210
+#### 12.02.2017
+### Old Tech Review: RIM Blackberry 7210
+
+![old_tech.jpg](media/old_tech/old_tech.jpg)
 
 While I can't recall the exact moment when it happened, I acquired my first and only Blackberry sometime during the Fall of 2005. It came to me without a battery, which rendered it good-as-dead to a high school student without any meaningful (read: expendable) income. Without any intention of leaving it in such a state I eventually MacGyvered the battery from a Nokia 3650 to be compatible with the 7210. This quickly propelled me out of my "dumb phone" days and introduced me to what a smartphone is capable of.
 
