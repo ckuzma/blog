@@ -12,7 +12,6 @@ _[NOTE: This post is incomplete and will be finished when time allows.  For now 
 ![003](posts/2020/media/rgb_board_mk2/003.jpg)
 ![004](posts/2020/media/rgb_board_mk2/004.jpg)
 ![005](posts/2020/media/rgb_board_mk2/005.jpg)
-![006](posts/2020/media/rgb_board_mk2/006.jpg)
 ![007](posts/2020/media/rgb_board_mk2/007.jpg)
 ![008](posts/2020/media/rgb_board_mk2/008.jpg)
 ![009](posts/2020/media/rgb_board_mk2/009.jpg)
