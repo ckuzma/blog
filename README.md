@@ -6,30 +6,30 @@
 
 _[NOTE: This post is incomplete and will be finished when time allows.  For now I just wanted to make sure to share these photos.]_
 
-![000](media/rgb_board_mk2/000.jpg)
-![001](media/rgb_board_mk2/001.jpg)
-![002](media/rgb_board_mk2/002.jpg)
-![003](media/rgb_board_mk2/003.jpg)
-![004](media/rgb_board_mk2/004.jpg)
-![005](media/rgb_board_mk2/005.jpg)
-![006](media/rgb_board_mk2/006.jpg)
-![007](media/rgb_board_mk2/007.jpg)
-![008](media/rgb_board_mk2/008.jpg)
-![009](media/rgb_board_mk2/009.jpg)
-![010](media/rgb_board_mk2/010.jpg)
-![011](media/rgb_board_mk2/011.jpg)
-![012](media/rgb_board_mk2/012.jpg)
-![013](media/rgb_board_mk2/013.jpg)
-![014](media/rgb_board_mk2/014.jpg)
-![015](media/rgb_board_mk2/015.jpg)
-![016](media/rgb_board_mk2/016.jpg)
+![000](posts/2020/media/rgb_board_mk2/000.jpg)
+![001](posts/2020/media/rgb_board_mk2/001.jpg)
+![002](posts/2020/media/rgb_board_mk2/002.jpg)
+![003](posts/2020/media/rgb_board_mk2/003.jpg)
+![004](posts/2020/media/rgb_board_mk2/004.jpg)
+![005](posts/2020/media/rgb_board_mk2/005.jpg)
+![006](posts/2020/media/rgb_board_mk2/006.jpg)
+![007](posts/2020/media/rgb_board_mk2/007.jpg)
+![008](posts/2020/media/rgb_board_mk2/008.jpg)
+![009](posts/2020/media/rgb_board_mk2/009.jpg)
+![010](posts/2020/media/rgb_board_mk2/010.jpg)
+![011](posts/2020/media/rgb_board_mk2/011.jpg)
+![012](posts/2020/media/rgb_board_mk2/012.jpg)
+![013](posts/2020/media/rgb_board_mk2/013.jpg)
+![014](posts/2020/media/rgb_board_mk2/014.jpg)
+![015](posts/2020/media/rgb_board_mk2/015.jpg)
+![016](posts/2020/media/rgb_board_mk2/016.jpg)
 
 #### 05.02.2020
 ### RGB Wall Display Board, Part 1: The Project Begins
 
 A few months ago I came across the following image while I was scouring the internet for ideas of what I might build using a bunch of WS2812B RGB LED strips that I had laying around:
 
-![inspiration](media/rgb_board_mk2/inspiration.jpg)
+![inspiration](posts/2020/media/rgb_board_mk2/inspiration.jpg)
 
 The [photo itself](https://www.instagram.com/p/BEGS5bxqdYy/) was hosted by Instagram and was associated with an account belonging to someone with the name of Johan Schmetzer.  On [their Instagram](https://www.instagram.com/johanschmetzer/) page I was able to find a few more pictures of this RGB LED display and some basic details as to how it was made, but alas there existed no step-by-step build instructions.
 
