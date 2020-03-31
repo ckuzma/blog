@@ -15,6 +15,7 @@ But first, a quick recap of how we got to this point:
 Finishing the board wound up being a lot more labor and time intensive than expected.
 
 ![018](media/rgb_board_mk2/018.jpg)
+![019](media/rgb_board_mk2/019_vellum.jpg)
 ![020](media/rgb_board_mk2/020.jpg)
 ![022](media/rgb_board_mk2/022.jpg)
 ![023](media/rgb_board_mk2/023.jpg)
