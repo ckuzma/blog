@@ -48,7 +48,7 @@ I have to admit that I was pretty impressed with how quickly I had this mounted 
 
 ![019](media/rgb_board_mk2/019_vellum.jpg)
 
-Finally it was time to work on the diffusing layer.  While my original intention was to use a single sheet of plastic, I found this vellum paper in one of my drawers and realized that it was perfectly suited for the job.
+Finally it was time to work on the diffusing layer.  While my original intention was to use a single sheet of plastic, I found this vellum paper in one of my drawers and realized that it was perfectly suited for the job.  I cut each sheet to cover a 4x2 grid of circles and attached them to the back of the front board using some hot glue.
 
 ![032](media/rgb_board_mk2/032.jpg)
 
@@ -67,8 +67,18 @@ When it came time to cut notches into the cardboard bands to enable them to inte
 ![030](media/rgb_board_mk2/030.jpg)
 ![031](media/rgb_board_mk2/031.jpg)
 
-
+Assembling the grid was a fairly straightforward affair.  Care had to be given to not fall onto it and crush it, but none of it needed to look especially pretty as it would all soon be hidden.
 
 ![034](media/rgb_board_mk2/034.jpg)
+
+With the grid installed into the box, all that remained was a little bit of bending and (hot) gluing of some stubborn pieces that refused to line up correctly.
+
 ![035](media/rgb_board_mk2/035.jpg)
+
+With that I drilled a hole for a USB pass-through and affixed the NodeMCU microcontroller to the back wall of the box with some more hot glue.  At this point in time I opted against installing buttons in favor of striving towards a more internet-centric control method.  However until that point I still needed to be able to flash the board with new firmware revisions, hence the pass-through hole.
+
+And with that it was done!  I tightened down the the front panel and verified that the cardboard grid had remained in-place by ensuring that each "pixel" (the round circles through which light shines) was filled completely by its respective LED's light.  Next on the docket is more intricate firmware, which I will document in a different blog series.
+
+Oh, and as a bonus, below is a photo of the box before I put on the front panel.  The visual effect reminded me a lot of a Dewey Decimal card cabinet for some reason, though I can't place my finger on exactly why.
+
 ![033](media/rgb_board_mk2/033.jpg)
