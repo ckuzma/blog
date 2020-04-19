@@ -1,6 +1,23 @@
 ### [Blog Homepage](https://github.com/ckuzma/blog) | [About the Author](https://ckuzma.github.io/) | [Posts Archive](/posts)
 # The Blog of Christopher Kuzma
 
+---
+
+#### 18.04.2020
+### "The Phone List"
+
+A conversation I had the other day prompted me to look for the list I'd compiled of all the phones I've ever owned and used.  That list appears to have gone missing, unfortunately, so I decided to recreate it.  What follows is my own chronologically-sorted (to the best of my ability) list of phones.
+
+1. Motorola C131
+2. Motorola V180
+3. Nokia 6800
+4. Sony Ericsson Z520
+5. ...
+
+**[Click here to continue...](posts/2020/2020-04-18-the-phone-list.md)**
+
+---
+
 #### 18.04.2020
 ### Nixie Tube Clock Box Case - Part 2
 
@@ -10,15 +27,6 @@ It's finished!  While I wouldn't consider it especially pretty, it is much more 
 
 **[Click here to continue...](posts/2020/2020-04-18-nixie-tube-box-case-part-2.md)**
 
-#### 08.04.2020
-### Nixie Tube Clock Box Case - Part 1
-
-![nixie_clock_bare](posts/2020/media/nixie_tube_box/nixie_clock_bare.gif)
-> Two clocks using "outdated" technology: one fully mechanical, the other using Soviet-era vacuum tubes as a display medium.
-
-A few days short of exactly a year ago, I purchased a Nixie tube clock to give to my mother on Mother's Day 2019.  The clock I selected for her was housed in a beautifully finished wood base complete with multiple number-transition effects and selectable brightness levels.  Despite my best attempts to resist the appeal of the warm-glowing aesthetic, I soon found myself desiring my own clock.
-
-**[Click here to continue...](posts/2020/2020-04-08-nixie-tube-box-case-part-1.md)**
-
+---
 
 ### [View older posts...](/posts)
