@@ -1,7 +1,9 @@
+> This is an in-progress article.
+
 #### 22.06.2020
 ### Casio Pro Trek PRW-3100 Review
 
-> Incomplete article, currently a scratch space.
+![header-image](media/casio_prw_3100/164451.jpg)
 
 **Multifunction Watches Owned (Chronological Order):**
 - Radio Shack 63-5021 (Calculator Watch)
