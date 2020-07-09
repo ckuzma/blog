@@ -1,3 +1,7 @@
+### 29.12.2011
+
+# Dell Venue Pro Review
+
 ## Introduction
 
 There was a bit of lack of information regarding this phone prior to my purchase of it, especially anything that had been recently written, so I took it upon myself to educate my fellow man about this device. The general take-away from the phone should mimic that of most Windows Phone 7-powered devices, but since this is the first time I've ever experienced WP7 before, my take on the software will also be under scrutiny in this very light and abbreviated review.

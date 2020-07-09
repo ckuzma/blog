@@ -1,3 +1,7 @@
+### 03.11.2012
+
+# Nokia 808 PureView Review
+
 ## Introduction
 
 When Julian over at the German branch of Nokia Connects (@Nokia_Connects) offered me the opportunity to take a Nokia PureView 808 handset for a test drive over the weekend, I happily told him I’d love to. I just had to pick the correct weekend. Suddenly realizing that I was a day or two from my last weekend in Berlin, I shot him an SMS and we made plans to meet so I could grab the phone. The plan? Wander and take pictures with the comparative freedom that one is endowed with when shooting from a phone compared to my much more attention-grabbing DSLR.  While I’m going to present this post in the form of most of my reviews, I plan on throwing a lot of fluff on the door and making this something more of a lightning review. After all, I’d have had to put my SIM card in the phone to actually use it as a phone, so as far as I’m concerned I was really only ever testing the camera anyway.

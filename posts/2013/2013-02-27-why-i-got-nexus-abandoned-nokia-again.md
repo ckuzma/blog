@@ -1,3 +1,7 @@
+### 27.02.2013
+
+# Why I Got a Nexus (And Abandoned Nokia Again)
+
 It really shouldn't be a surprise that I bought a Nexus 4. Oh sure, if you are a frequent reader of my blog, you might be a bit stunned to learn that I now tote a Nexus-brand device, and for good reason. It wasn't too long ago- 3 months, to be exact- that I made remarks dismissing Android's future and praising Nokia's latest and greatest flagship. As far as most people are concerned, I'm a Nokia fan. (Still am.) My experiences with the Dell Venue Pro convinced me that Nokia's move to Windows Phone could actually be a good thing, and I really enjoyed the entire time I spent with my Lumia 710. Nobody would have doubted that I'd wind up purchasing anything other than a Nokia-branded Windows Phone device when I finally got around to upgrading. So what happened?
 
 Put as simply as possible: pricing, timing, broken promises, and timing. If you want to know exactly what I mean, grab a cold beverage and pull up a chair for me to explain myself. In case you haven't read it already, I recommend you first check out my House of Nokia rant before continuing further.

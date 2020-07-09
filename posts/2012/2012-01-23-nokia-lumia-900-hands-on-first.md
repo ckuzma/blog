@@ -1,3 +1,7 @@
+### 12.01.2012
+
+# Nokia Lumia First Look
+
 During this past week I had the opportunity to play around with a Nokia Lumia 900 whilst eating breakfast. That's right, while there are others who've also managed to get some time to poke this new Lumia with a stick, I got to do it over a cup of coffee and a plate of fried eggs.
 
 While originally underwhelmed by the announcement of the phone the day before, to the point of annoyance, my reactions to the device subsided overnight and left me ready to actually pay attention to the words Nokia was using to describe how they arrived at the Lumia 900. What follows is my take on the device after having allowed myself plenty of time to digest exactly what it is.
