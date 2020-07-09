@@ -38,7 +38,7 @@ A conversation I had the other day prompted me to look for the list I'd compiled
 33. Nokia 1816
 34. Nokia E5
 35. Nokia C5
-36. Nokia N8
+36. [Nokia N8](../2011/2011-03-18-nokia-n8-review.md)
 37. Apple iPhone 4
 38. Samsung Galaxy S i9000
 39. Nokia E73 Mode
