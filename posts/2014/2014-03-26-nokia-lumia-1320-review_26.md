@@ -1,3 +1,9 @@
+### 26.03.2014
+
+# Nokia Lumia 1320 Review
+
+![DSC_5878](media/lumia_1320/DSC_5878.JPG)
+
 ## Introduction
 
 The last time I held a phone which felt this humongous was back when I owned a Nokia E90. While "brick-like" is the only honest way to describe that now-ancient device, it made up for it at the time by the inclusion of a large LCD and spacious internal keyboard. Handling the Lumia 1320, with its cumbersome dimensions and awe-inspiringly large display, reminded me in many ways of the E90.
@@ -8,17 +14,26 @@ Until now. Enter the Lumia 1520 and its business oriented brother, the 1320, the
 
 ## Design
 
+![DSC_5882](media/lumia_1320/DSC_5882.JPG)
+
 Nokia used to redefine, or at least tweak, its design language on every new handset it released. That resulted in a lot of beautiful and timeless devices, such as the N93i, E71, N86, and E7, just to name a few. But it also resulted in a lot of forgettable devices which, despite their merits, showed their age after just a few months. (The E70 comes to mind.)
 
 When Nokia released the N9, the practice of churning out countless designs built around more or less the same hardware ended. Instead, Nokia adopted the successful design language implemented by Anton Fahlgren's team when they built the terminal-upon-arrival N9. Just because its operating system was being taken off of life support didn't mean that the clean lines and overall aesthetic need be euthanized, something Nokia was definitely aware of. They wound up porting most of the design over to Nokia's first Windows Phone-powered device, the successful Lumia 800.
 
 One glance at the Lumia 1320 is all it takes to determine that it descends from the same lineage that began with the N9. While the design language has undoubtedly evolved a bit over the past couple of years, the bulk of it remains at least familiar. Namely, the device is externally composed of a large touchscreen display set into a colorful polycarbonate shell. Unlike most of the flagship Lumias, however, the 1320's shell is removable and interchangeable, though the battery is regrettably inaccessible even with this cover removed.
 
+
+![DSC_5883](media/lumia_1320/DSC_5883.JPG)
+
 With the-- what in my case is called "red" according to Nokia-- shell installed, one will quickly notice the ho-hum 5-megapixel camera paired with a single flash located on the backside of the phone towards the top. While utterly pitiable when compared against any Nokia equipped with a PureView-branded camera, this is a fairly decent shooter for documenting spontaneous moments in life. Just don't expect it to produce print-worthy snaps.
 
 Moving towards the right-hand edge of the device are to be found the volume rocker, power button, and camera shutter. The latter is, as should be expected, a two-stage affair just like that found on a dedicated point-and-shoot. This shutter has surprisingly good tactile feedback despite its being paired with a lesser camera.
 
+![DSC_5885](media/lumia_1320/DSC_5885.JPG)
+
 Pop off the polycarbonate shell and the Micro-SIM and Micro-SD slots reveal themselves. While the ability to up one's storage capacity is a welcome feature, the process of removing that cover isn't exactly a walk in the park. Out of fear that the phone will go shooting across the room and hit the floor / wall / cat, I predict that most users of the 1320 will simply insert the largest capacity card they have on-hand and then forget about it. Which is probably for the best, as we don't need people jamming cards into the wrong slots and winding up with fancy clocks.
+
+![DSC_5884](media/lumia_1320/DSC_5884.jpg)
 
 With the phone back together and flipped over to reveal its face, one is confronted with the 6-inch IPS LCD panel featuring Nokia's ClearBlack technology, the star of the show. It is, owing largely to the tech infused into it, one of the best displays I have been confronted with to date. So good, in fact, that I took to the internet to verify that it wasn't actually an AMOLED panel. Curiously enough, the Windows Phone-specific navigation keys located below the exceptional display are less than stellar, featuring no sort of illumination to help users find them in the dark.
 
@@ -37,6 +52,8 @@ _Update 4/3/2014: Looks like Microsoft was aware of IE's dated appearance and st
 The 1320 made even my 11" MacBook Air look small.
 
 ## Conclusion
+
+![DSC_5880](media/lumia_1320/DSC_5880.JPG)
 
 If memory serves me right, the last time I reviewed a phone built for business purposes was about three years ago, when I gave the Nokia E7 a spin. Despite it running a clunky touchscreen adaptation of Symbian S60, it was a phone that I found myself liking. I even described it as being "one of the best looking Nokia devices of all time," a compliment I stand by even today. Holding the 1320 in my hand, I find it hard to bestow similar praise upon it, if only because of how vanilla it appears visually.
 

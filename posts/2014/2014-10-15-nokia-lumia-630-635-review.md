@@ -1,4 +1,10 @@
-_[To say that this review is long overdue would be to make a massive understatement. Given that it has been over three months since the friendly folk over at Conversations by Nokia (now Microsoft Mobility) sent me a Lumia 630 to play with, one might think that I've been intentionally neglecting my duty as a blogger to write about it. While there is some shred of truth in this accusation, the real reason for this piece's tardiness has a rather mundane cause: I've simply lacked the time necessary to keep this blog updated, apart from one brief update back in August, of course. Now that I've managed to find and allocate the time necessary to once again write for fun, I hope to avoid a repeat of this summer's blogging draught for as long as possible. So, without further ado, I bring you a much belated review of a product that was released over five months ago.]_
+### 15.10.2014
+
+# Nokia Lumia 630/635 Review
+
+![DSC_6819](media/lumia_635/DSC_6819.JPG)
+
+<!-- _[To say that this review is long overdue would be to make a massive understatement. Given that it has been over three months since the friendly folk over at Conversations by Nokia (now Microsoft Mobility) sent me a Lumia 630 to play with, one might think that I've been intentionally neglecting my duty as a blogger to write about it. While there is some shred of truth in this accusation, the real reason for this piece's tardiness has a rather mundane cause: I've simply lacked the time necessary to keep this blog updated, apart from one brief update back in August, of course. Now that I've managed to find and allocate the time necessary to once again write for fun, I hope to avoid a repeat of this summer's blogging draught for as long as possible. So, without further ado, I bring you a much belated review of a product that was released over five months ago.]_ -->
 
 ## Introduction
 
@@ -12,17 +18,33 @@ Because the unit I purchased was equipped with all of the frequency bands necess
 
 ## Design
 
+![DSC_6826](media/lumia_635/DSC_6826.JPG)
+
+
 "Wow. This feels nice to hold."
 
 Those are the words of a colleague from when he first handled the 635, and they are words that I couldn't have put better myself. This is a device that feels, quite simply, nice to hold. While it seems to be the opinion of many reviewers that devices best described as minimalistic slabs are not very exciting and thus not very desirable- a rather bold claim to make in the face of Apple's extremely popular device designs- I rather enjoy the simple mixture of polycarbonate and glass found on this Lumia. While it is in no way made of the sorts of premium materials found on flagship devices, the 635 is still far and away a much better looking device than its predecessor.
 
+
+![DSC_6827](media/lumia_635/DSC_6827.JPG)
+
 The most notable improvement from the 520 is the move away from a round and toy-like body. Seen in profile, the 635's chamfered sides look sharp and professional. Unlike its predecessor, it looks much more at ease in the company of iPhones and Android-powered devices. I was even asked one time if it's the "new iPhone." Such is high praise for any smartphone, but to hear a budget phone being referred to in such a manner is unheard of.
+
+![DSC_6828](media/lumia_635/DSC_6828.JPG)
 
 An omission is present on the 635 which most Windows Phone enthusiasts will immediately point out: a dedicated camera shutter key. Rumor has it that Microsoft lowered its hardware requirements in order to help partners build increasingly cheaper devices. (Though, in reality, this is more likely just an attempt to urge partners to release Windows Phone-powered devices based on hardware they'd already used for Android offerings.) Also missing are hardware soft keys, a staple WP hardware design up until this point. Windows Phone 8.1 instead supports on-screen soft keys similar to those found on many Android devices.
 
+
+![DSC_6825](media/lumia_635/DSC_6825.JPG)
+
 The rest of the device is more or less the same as most mid- to low-tier Lumias. The body is made up of a single polycarbonate shell with cutouts for the volume and power keys, Micro-USB port, loudspeaker, camera and 3.5mm audio jack. Unlike many premium Lumia devices, however, the buttons found on the 635 are not made out of ceramic. Instead they are composed of some sort of glossy plastic.
 
+![DSC_6829](media/lumia_635/DSC_6829.JPG)
+![DSC_6830](media/lumia_635/DSC_6830.JPG)
+
 As was the case for its predecessor, the 635 does feature swappable backs. So while this one came with a rather hard-to-keep-clean white shell, it can be swapped for a more subtle black colored one. Or, if vibrant colors are your thing, neon green, orange and yellow shells are also available for purchase. Underneath the shell is located a swappable 1,830 mAh Li-Ion battery and Micro-SD and Micro-SIM slots, the latter two of which are not hot-swappable. Absent are an NFC antenna or a Qi charging coil, though it is likely possible to install an aftermarket Qi-to-Micro-USB adapter underneath the shell.
+
+![DSC_6823](media/lumia_635/DSC_6823.JPG)
 
 The front of the phone is dominated by the 4.5in IPS LCD display featuring Nokia's ClearBlack polarization technology and Corning's Gorilla Glass 3. While not of HD resolution, the display features an adequate 480x854 resolution. Of course, once you subtract those soft keys, the actual usable resolution equals about 480x800, the same as its predecessor. While this is undoubtedly bottom-shelf hardware, the display does manage to win back points with its great viewing angles and high-contrast colors. Using a display like this will make it impossible to be satisfied with a screen as poor as that found on the now-retired 520. Notably missing is an ambient light sensor and a front-facing camera. The absence of both is a shame but given that this is a budget device, their omission was perhaps a necessary sacrifice in order to make a particular price point.
 
@@ -39,6 +61,8 @@ Returning to the 635, which shipped natively with WP8.1, and you'd think all wou
 It's not all gloom and doom, however, as there are many good parts of the 635 which are hard to ignore. The first would have to be an exceptionally long battery life. With email set to constant synchronization and Facebook, Twitter, and WhatsApp all doing their own thing, I could easily manage a bit over two days before I'd start to look for my charger. Then there's when Cortana comes into her own: a dialogue system to facilitate hands-free SMS-based communication. While driving over a thousand miles solo this summer I never once felt truly alone, thanks to Cortana cheerfully reading my incoming messages and helping me to respond, all while the 635 was located safely in my pocket. I'd love to see this feature in other phones.
 
 ## Conclusion
+
+![DSC_6824](media/lumia_635/DSC_6824.JPG)
 
 The last time I wound up buying a phone immediately after having used it on a trial basis was back in 2009. (It was the E71, a phone I loved so much that I actually bought a second one at a much later point.) The Lumia 630 kindled a similarly infectious desire to own one for myself, replacing my previous device. That's rather impressive considering my former daily carry was a flagship Android device.
 

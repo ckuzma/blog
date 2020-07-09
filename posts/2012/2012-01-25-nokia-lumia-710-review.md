@@ -1,3 +1,9 @@
+### 25.01.2012
+
+# Nokia Lumia 710 Review
+
+![lumia_710](media/lumia_710.JPG)
+
 ## Introduction
 
 Nokia's back, and they're here with their best game this time around. Too long has Nokia been dormant in the US handset market, a market which is as ruthless and cutthroat as they come. While they managed to maintain a sizable worldwide market with their Symbian-based operating system, Americans weren't quite as thrilled to see handset after handset running the been-there-done-that operating system on handset after handset, no matter how much the hardware changed. Very little did it help that Symbian experienced a very crude and awkward move from button-based navigation to the first S60 touchscreen-based devices, being merely patched up and shipped out. If anything, that approach did more harm for Nokia than anything, driving the biggest share of the market far, far away. However what you're looking at this time around doesn't tick like your first Nokia, the one which came with the universally-known Snakes game capable of making even the most lengthy of commutes quite a trivial matter. Never mind the fact that Nokia managed to make their name synonymous with "boring" here in the States during the past few years, because this time Nokia is playing for keeps. They've tag-teamed their effort with Microsoft and released three phones of late with a Microsoft Windows Phone 7 brain at the center of the action. Beginning by retooling the design of the N9 to fit the hardware requirements of the WP7 UI with a smaller display and some soft keys, the Lumia 800 was released internationally but not given a very big marketing effort in the US.
