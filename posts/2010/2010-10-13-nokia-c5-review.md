@@ -1,3 +1,7 @@
+### 23.06.2010
+
+# Nokia C5 Review
+
 ## Introduction
 
 For starters, I own this phone. I went out and bought it with my own money because I wanted it. I came to Germany with nought but my iPhone 4, which I was starting to believe would not be unlockable for at least another month or so. In the meantime I was using one of my least favorite phones of all time, and the prospect of using it for many more months was a horror to me. So I made up my mind that I would spend a portion of my stipend on a new phone which I might actually enjoy using and be a bit proud of for the next few months until my iPhone was unlockable. I happened to notice that the C5 was on-sale at the local Saturn store, and since it came with the free Ovi Navigation I was pretty much sold on that point. Truth be told, I could have gotten a cheaper touchscreen-equipped Nokia that also came with the same navigation package, but I am a sucker for good looking candybars (and am quite outspokenly opposed to S60v5). I would have chosen the C5 in what I believe to be the more attractive white color, but I got what I was able to and haven't looked back.

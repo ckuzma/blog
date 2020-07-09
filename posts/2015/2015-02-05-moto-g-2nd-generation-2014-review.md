@@ -1,4 +1,8 @@
-Moto G next to its predecessor, the Nexus 4.
+### 05.02.2014
+
+# Moto G (2nd Gen, 2014) Review
+
+Moto G next to its predecessor, the Nexus 4. (Photo missing.)
 
 ## Introduction
 

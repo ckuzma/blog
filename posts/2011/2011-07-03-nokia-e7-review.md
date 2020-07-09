@@ -1,3 +1,7 @@
+### 03.07.2011
+
+# Nokia E7 Review
+
 ## Introduction
 
 As per usual with the majority of my Nokia reviews, this was a device sent to me from my good friends over at WOM World Nokia to give a device admittedly outside of my budget a decent spin just for kicks and giggles. Admittedly there's not a lot to laugh about when it comes to the E7, as it's a lean and sleek device aimed at the business sector of users. Since the E90 of many years ago, there hasn't been a single Nokia device with a display as larger than it's LCD in Nokia's E-Series lineup, let alone a Nokia handset of any subcategory ever to have a display larger than that found in the E7. With premium materials found all over the device it's really no surprise, then, to read the E7's rather lofty price tag. The real question is whether or not Nokia has made a device good enough to be worthy of such an asking price or if this, like many wannabe business-class heroes, is just fluff.

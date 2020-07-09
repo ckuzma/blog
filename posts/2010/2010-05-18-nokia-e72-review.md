@@ -1,3 +1,7 @@
+### 18.05.2010
+
+# Nokia E72 Review
+
 ## Introduction
 
 Ever since the E72 was announced, I was excitedly awaiting its release. It was built upon the same platform I originally liked, the E61/E62, and was the direct sucessor to what is probably my favorite Nokia of all time: the E71. Everything that made the E71 such a stunning handset was kept, and only the features which I remember being most commonly asked for were added. What was therefore created was the most complete and flawless messaging phone ever. Sure, it lacked certain multimedia features and didn't have a fancy touchscreen display: it was never supposed to. It was designed to get work done, and is such a capable handset that if presented with the option between one and a run-of-the-mill netbook, I might pick the E71 based soley on what I know it can accomplish, even though the netbook might be able to do more.

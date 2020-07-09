@@ -1,3 +1,7 @@
+### 23.02.2010
+
+# Kyocera TNT Review
+
 ## Introduction
 
 As a guy sitting within 10 feet of 6 fully-functioning albeit not-currently-in-use, you might be wondering why on earth I happen to have picked up a Kyocera "TNT!" of all devices. Why not something with a more techy edge yet still simple, such as the Motofone F3? Why the Kyocera (also known as the Adreno S2400 in its non-branded state)? Simple. $10 for a phone I could pick up within a five minute drive from my house was simply irresistible. In fact, I didn't so much desire this phone for myself as what it would enable me to do. (I'll just hint that it had something to do with a Valentine's Day present with a twist.)

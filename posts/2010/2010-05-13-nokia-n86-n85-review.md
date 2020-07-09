@@ -1,3 +1,7 @@
+### 13.05.2010
+
+# Nokia N85 Review
+
 ## Introduction
 
 First of all, this joint review would not be possible if it were not for my acquisition of a Nokia N85 yesterday. I happened across a man a few cities away whom had an N85 and was willing to trade it for my Sony Ericsson W760a and Sony T70. This is an undeniably good deal, especially considering how little value I was deriving from either device. In fact, I find it almost frustrating that I didn’t find this deal earlier, as I might’ve managed to remain happy with the N85 and would never have bothered later to purchase the N86. Now that I have both of them, side-by-side, I can finally evaluate with certainty all of the “improvements” I felt the N86 had made over its predecessor. Having prior reviewed and N85, I was quite aware of its excellent features all wrapped up in a neat and tidy package. I was also aware of its many downfalls, albeit they were in no way going to prevent me from acquiring it.

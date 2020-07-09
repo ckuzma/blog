@@ -1,3 +1,7 @@
+### 15.01.2014
+
+# Nokia Lumia 1020 Photography Review
+
 ## Introduction
 
 A little over a year ago I was first given the chance to demo what was, at that point in time, the latest flagship device from Nokia. While this opportunity was by no means my first encounter with the thing, otherwise known as the Lumia 920, I was still quite excited to see how it would perform as a daily driver. As the first phone- or, at the very least, the first mainstream handset- equipped with an optical image stabilization system, the device appeared poised to take smartphone photography to a new level.

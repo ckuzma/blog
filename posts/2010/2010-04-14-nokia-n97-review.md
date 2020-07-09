@@ -1,3 +1,7 @@
+### 14.04.2010
+
+# Nokia N97 Mini Review
+
 ## Introduction
 
 What the Nokia N97 Mini will never be an iPhone killer and it was never designed to be such. Or, I sure hope it wasn’t, because it really isn’t. What the N97 Mini really consists of is an example of what Nokia should be studying to figure out just WHY their touchscreen have so much initial pizzazz but then fail to ever catch on. Afterall, here we have a host of in-demand features: touchscreen, a good 5mp camera, 3.5mm jack, keyboard, application store… this device would seem to be a marketer’s dream device.

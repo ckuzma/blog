@@ -14,38 +14,41 @@ A conversation I had the other day prompted me to look for the list I'd compiled
 9. Nokia N-Gage QD
 10. Sony Ericsson W810
 11. Sony Ericsson K750
+12. [i-Mobile 902](../2013/2013-03-21-my-first-true-camera-phone-i-mobile-902.md) <!-- Yeah, I know, there's three 12s -->
 12. Sony Ericsson W760
+12. [Nokia 6760](../2010/2010-06-23-nokia-6760-review.md)
 13. Danger Hiptop 2 / Sidekick II
+13. [Kyocera TNT](../2010/2010-02-23-review-kyocera-tnt-virgin-mobile.md) <!-- Yeah, I know, also two 13s -->
 14. Sony Ericsson K800i
 15. Nokia 9300
 16. Nokia E62
 17. Nokia N93
 18. Nokia N82
 19. Nokia E90
-20. Nokia N96
+20. [Nokia N96](../2010/2010-02-07-thoughts-nokia-n96.md)
 21. Nokia E66
 22. Nokia E71
-23. Nokia N85
+23. [Nokia N85](../2010/2010-05-13-nokia-n86-n85-review.md)
 24. Apple iPhone
 25. Nokia N97
-26. Nokia N97 Mini
-27. Nokia N86
+26. [Nokia N97 Mini](../2010/2010-04-14-nokia-n97-review.md)
+27. [Nokia N86](../2010/2010-05-13-nokia-n86-n85-review.md)
 28. Nokia E75
-29. Nokia E72
-30. Nokia 3720 Classic
+29. [Nokia E72](../2010/2010-05-18-nokia-e72-review.md)
+30. [Nokia 3720 Classic](../2010/2010-10-17-nokia-3720-classic-review.md)
 31. Nokia 6790 Surge
-32. Nokia N900
+32. [Nokia N900](../2010/2010-10-08-n900-review.md)
 33. Nokia 1816
 34. Nokia E5
-35. Nokia C5
+35. [Nokia C5](../2010/2010-10-13-nokia-c5-review.md)
 36. [Nokia N8](../2011/2011-03-18-nokia-n8-review.md)
 37. Apple iPhone 4
 38. Samsung Galaxy S i9000
 39. Nokia E73 Mode
-40. Nokia E7
-41. Motorola F3 (Motofone)
+40. [Nokia E7](../2010/2010-05-18-nokia-e72-review.md)
+41. [Motorola F3 (Motofone)](../2010/2010-08-23-motorola-f3-thoughts.md)
 42. Nokia 100
-43. Nokia Lumia 710
+43. [Nokia Lumia 710](../2012/2012-01-25-nokia-lumia-710-review.md)
 44. Google Nexus 4
 45. Samsung Galaxy S 4G
 46. LG G3
@@ -53,16 +56,16 @@ A conversation I had the other day prompted me to look for the list I'd compiled
 48. Dell Venue Pro
 49. Nokia Lumia 900
 50. Nokia 808 PureView
-51. Nokia Lumia 920
+51. [Nokia Lumia 920](../2013/2013-01-08-nokia-lumia-920-review.md)
 52. Nokia C7 Astound
 53. Peek 9
 54. Nokia Lumia 520
-55. Nokia Lumia 1020
-56. Nokia Lumia 1320
+55. [Nokia Lumia 1020](../2014/2014-01-15-nokia-lumia-1020-photography-review.md)
+56. [Nokia Lumia 1320](../2014/2014-03-26-nokia-lumia-1320-review_26.md)
 57. Nokia Lumia 630
-58. Motorola Moto G (2nd Gen)
+58. [Motorola Moto G (2nd Gen)](../2015/2015-02-05-moto-g-2nd-generation-2014-review.md)
 59. Samsung Galaxy S5
-60. Alcatel OneTouch Idol 3
+60. [Alcatel OneTouch Idol 3](../2015/2015-06-09-blitzschnell-review-alcatel-onetouch.md)
 61. Apple iPhone 6
 62. Nokia 105
 63. Nextbit Robin

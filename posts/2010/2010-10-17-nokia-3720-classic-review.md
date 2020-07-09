@@ -1,3 +1,7 @@
+### 17.10.2010
+
+# Nokia 3720 Classic Review
+
 ## Introduction
 
 What is made of plastic and metal, has a color screen and a camera, and can survive a quick dip into a pint of beer? A Nokia 3720 Classic, that's what. I can understand why Nokia build this phone... sort of. I mean, most of Nokia's cheap S40-based handsets can and usually have no option but to endure a rough life, so the fact that Nokia decided that they needed to release a product with even more durability seems a bit like overdoing it. But that's exactly what the 3720 does, and does it with a bit of style compared to the rugged offerings by other companies.

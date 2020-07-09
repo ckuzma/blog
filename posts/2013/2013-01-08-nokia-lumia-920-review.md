@@ -1,3 +1,7 @@
+### 08.01.2013
+
+# Nokia Lumia 920 Review
+
 ## Introduction
 
 The house of Nokia is in a very peculiar place at the moment. While the brand name still carries quite a bit of weight with it, the actual amount of active mindshare it currently possesses is nowhere near what it once was. Ultimately, the folks at Espoo need to convince loyalists that the company remains strong while also managing to once again catch the attention of consumers who have long since abandoned the Finnish ship. With a plethora of options- great options, at that- available from competitors in the smartphone market, Nokia needs a new flagship to rally behind. In today’s fast-paced world of tech, said flagship doesn’t need to endure point duty for long… it just has to remain timeless. Examples of such would be the original Apple iPhone. Samsung’s Galaxy S. Motorola’s Atrix. All of these phones proved to customers that the company behind them was aware of the demands of the market and wasn’t simply playing catch-up.

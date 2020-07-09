@@ -1,3 +1,7 @@
+### 09.06.2015
+
+# Blitzschnell Review: Alcatel OneTouch Idol
+
 ## Background / Introduction
 
 When I first read about the Idol 3 my initial thoughts we something like this: Oh great, another budget phone with a stupid gimmick, no thanks. But when I later heard about its promotional pre-order pricing and dug a little bit deeper into its specifications sheet, my interest became very piqued to the point that I put in an order for myself. Now, months after having sold my Idol 3, I'd like to share my thoughts.
