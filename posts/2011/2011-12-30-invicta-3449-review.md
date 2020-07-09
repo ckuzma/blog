@@ -1,3 +1,8 @@
+### 30.12.2011
+# Invicta 3449 Review
+
+![invicta_3449](media/invicta_3449/invicta_3449.JPG)
+
 ## Introduction
 
 While a bit different than most things I review on my blog, I think that the "usual" format can still be applied to this thing and therefore I shall continue as such. The Invicta 3449 was a Christmas present (that I myself selected) but had originally been apprehensive about due to the great lack of information on the wristwatch itself. I had stumbled across the timepiece while perusing Amazon.com's selection of watches, intending to apply a gift certificate I had received towards one. This one struck my fancy but I wasn't initially sure how to proceed given that I knew nothing of Invicta, which up until this point I had assumed to be a Chinese manufacturer impersonating a Swiss firm. I set my nose to the ground like Snoopy and decided to find out more.
@@ -29,6 +34,8 @@ In terms of weight I really cannot say that this watch is heavy. I have worn hea
 The buttons and crown have been lightly splashed with water and I am proud to report that no water has leaked into the casing, or at least nothing visibly occurred. Correct display of time will obviously be a thing that only time will tell (pun intended), but considering the accuracy of even the most cheap of quartz watches, I can confidently say that the 24 hours I've had with this wristwatch inspire confidence in how well it works.
 
 ## Conclusion
+
+![invicta_3449_2](media/invicta_3449/invicta_3449_2.JPG)
 
 You know, I really don't miss the "JAPAN MOV'T" emblazoned on the watch's face. I can only assume that Invicta jumped to a Chinese movement to minimize costs, or perhaps continues to use a Japanese one. Heck, they might've even sourced a Swiss quartz movement. The fact that the label has been removed means I feel confident claiming that last possibility until proven wrong, and given that I'll simply assume it is true, I consider this watch to have been one of the best bargains I've ever snagged.  I like the look of this watch a lot, and so if you are here looking for buying advice, I'll flat out tell you: If the style of this watch appeals to you and the concept of wearing a (very nice) clock on your wrist is appealing, don't hesitate if the price is deemed worthy. I love this watch.
 

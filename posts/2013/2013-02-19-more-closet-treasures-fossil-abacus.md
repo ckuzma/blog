@@ -1,3 +1,9 @@
+### 19.02.2013
+
+# More Closet Treasures: Fossil Abacus
+
+![abacus](media/abacus.jpg)
+
 Growing up, I was a nerdy kid. I was such a nerd that, during family vacations, I'd actually ask my parents to scribble out math problems for me to solve for entertainment. I'd then ask them to correct my answers and would chide myself for making mistakes. However as nerd-stereotypical as that was, my fascination with wristwatches was able to trump it for absolute nerdiness. I used to wear not one, not two or even three watches; I would at times wear as many as four beastly watches on my little arm, all of which would be synchronized to within a second of one another at the beginning of each day.
 
 I soon realized that, apart from being somewhat uncomfortable, wearing so many wristwatches on a daily basis was utterly impractical, and I downsized to wearing just one watch, 24/7. I eventually learned that cloth and leather bands need to breathe now and then to avoid locking in sweat, at which point I switched over to only steel-bands for my timepieces. A couple of years later I began carrying a cell phone everywhere and stopped wearing a wristwatch altogether.
