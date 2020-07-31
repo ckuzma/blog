@@ -24,7 +24,7 @@ A modification I made was to install SIP sockets where the crystal would otherwi
 
 With the polycarbonate case assembled and the board secured inside, my transceiver was complete!  A quick power test resulted in no "magical smoke"– a good sign– and I was able to hear faint background static on the phone jack using a pair of headphones.  Shorting the key jack with a pin resulted in an audible tone from the onboard buzzer in addition to lighting up the LED, indicating that it, too, was functional.
 
-**[Click here to continue...](posts/2020/2020-07-13-pixie-transciever-pt2.md)**
+**[Continue reading --->](posts/2020/2020-07-13-pixie-transciever-pt2.md)**
 
 ----
 
@@ -44,7 +44,7 @@ Why 40-meters?  The answer to that is quite simple: because that's the frequency
 
 With that in mind I placed an order for three Pixie kits on eBay.  I figured it couldn't hurt to have a spare, plus hoped one of my local friends would decide to try their hand (literally) at CW radio with me.  The kits arrived a couple of weeks later and I immediately got to work assembling one of them.
 
-**[Click here to continue...](posts/2020/2020-07-12-pixie-transciever-pt1.md)**
+**[Continue reading --->](posts/2020/2020-07-12-pixie-transciever-pt1.md)**
 
 ----
 
@@ -59,7 +59,7 @@ A conversation I had the other day prompted me to look for the list I'd compiled
 4. Sony Ericsson Z520
 5. ...
 
-**[Click here to continue...](posts/2020/2020-04-18-the-phone-list.md)**
+**[Continue reading --->](posts/2020/2020-04-18-the-phone-list.md)**
 
 ---
 
@@ -70,7 +70,7 @@ A conversation I had the other day prompted me to look for the list I'd compiled
 
 It's finished!  While I wouldn't consider it especially pretty, it is much more of a complete "clock" than it was before as a raw, exposed circuit board.  Eventually i'd like to see the electronics moved into a case made out of laser-cut wooden slices but for now this will do.
 
-**[Click here to continue...](posts/2020/2020-04-18-nixie-tube-box-case-part-2.md)**
+**[Continue reading --->](posts/2020/2020-04-18-nixie-tube-box-case-part-2.md)**
 
 ---
 
