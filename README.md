@@ -3,6 +3,17 @@
 
 ---
 
+#### 31.08.2020
+### Nintendo Switch Pro Controller Joystick Drift Repair
+
+![switch_controller01](posts/2020/media/switch_controller/switch_controller01.jpg)
+
+Alas, my Nintendo Switch Pro Controller finally fell victim to the surprisingly-common [joystick drift issue](https://en-americas-support.nintendo.com/app/social/questions/detail/qid/78176/~/pro-controller-drifting), for which the internet has thankfully already come up with [some easy fixes](https://www.nintendolife.com/news/2020/08/guide_how_to_fix_a_drifting_nintendo_switch_pro_controller).  Armed with a small screwdriver, plastic pry tool, and [a repair guide from iFixit](https://www.ifixit.com/Device/Switch_Pro_Controller), I sat down to solve my newfound pet peeve.  What follows are a few photos that I took along the way along with a small bit of an explanation of what I was doing.
+
+**[Continue reading --->](posts/2020/2020-08-31-switch-controller-drift-fix.md)**
+
+----
+
 #### 13.07.2020
 
 ### Pixie QRP Transceiver Assembly (Part 2)
@@ -45,32 +56,6 @@ Why 40-meters?  The answer to that is quite simple: because that's the frequency
 With that in mind I placed an order for three Pixie kits on eBay.  I figured it couldn't hurt to have a spare, plus hoped one of my local friends would decide to try their hand (literally) at CW radio with me.  The kits arrived a couple of weeks later and I immediately got to work assembling one of them.
 
 **[Continue reading --->](posts/2020/2020-07-12-pixie-transciever-pt1.md)**
-
-----
-
-#### 18.04.2020
-### "The Phone List"
-
-A conversation I had the other day prompted me to look for the list I'd compiled of all the phones I've ever owned and used.  That list appears to have gone missing, unfortunately, so I decided to recreate it.  What follows is my own chronologically-sorted (to the best of my ability) list of phones.
-
-1. Motorola C131
-2. Motorola V180
-3. Nokia 6800
-4. Sony Ericsson Z520
-5. ...
-
-**[Continue reading --->](posts/2020/2020-04-18-the-phone-list.md)**
-
----
-
-#### 18.04.2020
-### Nixie Tube Clock Box Case - Part 2
-
-![nixie_clock_finished](posts/2020/media/nixie_tube_box/nixie_clock_finished.gif)
-
-It's finished!  While I wouldn't consider it especially pretty, it is much more of a complete "clock" than it was before as a raw, exposed circuit board.  Eventually i'd like to see the electronics moved into a case made out of laser-cut wooden slices but for now this will do.
-
-**[Continue reading --->](posts/2020/2020-04-18-nixie-tube-box-case-part-2.md)**
 
 ---
 
