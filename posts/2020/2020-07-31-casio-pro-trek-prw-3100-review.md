@@ -25,15 +25,39 @@ Lo and behold, it turns out that the PRW-3100 comes in more than just a cardboar
 
 ![132012](media/casio_prw_3100/132012.jpg)
 
-The box itself is made out of a wood composite, and only contains the watch in a clear plastic sleeve surrounded by a thick paper holder.  (Pretty boring stuff, hence the lack of a picture.)  A hunch tells me all of the packaging has recycling / composting in mind which seems rather fitting given the types of activities an owner of this type of watch is likely to engage in.  But that's a conversation best saved for a later section!
+The box itself is made out of a wood composite, and only contains the watch in a clear plastic sleeve surrounded by a thick paper holder.  (Pretty boring stuff, hence the lack of a picture.)  A hunch tells me all of the packaging has recycling / composting in mind which seems rather fitting given the types of activities an owner of this type of watch is likely to engage in.  But more on that later.
 
 **Design**
 
 ![132241](media/casio_prw_3100/132241.jpg)
 
-The PRW-3100 is, in a word, small.  Smaller than I expected, anyway.  Compared to the PRT-40 I owned many years ago, I'm amazed that Casio was able to incorporate all of the same feature– and more!– into a much more wrist-friendly package.  Size-wise I found it to be in the same ballpark as the Swatch I received from my girlfriend, model SUSB404.
+The PRW-3100 is small.  Or, at least compared to the PRT-40 that I owned two decades ago, it is.  Sitting next to my Swatch SUSB404 (pictured above) and the new Pro Trek is obviously a bit bigger, with its rugged protruding bezel, accidental-button-press-protectors, and fixed-angle strap attachment points being responsible for most of that extra bulk.
 
-![164](media/casio_prw_3100/164451.jpg)
+![164451](media/casio_prw_3100/164451.jpg)
+
+Taken entirely on its own and the Pro Trek looks... functional.  The colors are admittedly a bit of a mishmash, with the black band, silver buttons, blue bezel, dark purple sub-bezel, green-ish face, and white markings and labels all present here.  That being said, _most_ of Casio's Pro Trek line are a bit garrish in terms of color choices, and when compared against those this particular model appears nicely restrained.  (And let's not forget that G-Shock exists which often combines both garrish colors _and_ outlandish designs.)
+
+The multi-segmented LCD display looks undeniably old-fashioned amongst modern smartwatches, yet looks right at home next to nearly any G-Shock, Suunto, Garmin or other watch aimed at the outdoors enthusiast.  The top of the display features a small array capable of displaying text such as the current mode or a graph of line (barometric pressure trends) or bar (altitude history) type.
+
+![164523](media/casio_prw_3100/164523.jpg)
+
+The back of the watch has a steel case back held in place with four screws.  These are hidden underneath two plastic band-aligning pieces that are somewhat integral to the design of the watch.  These pieces help provide a more natural wrist-shaped contour to the back of the watch but aren't strictly necessary.  In fact, they would actually need to be removed should the band ever be swapped out for something unofficial.  That's slightly annoying in the same way that Swatch watches use their own proprietary band.  Thankfully the resin strap found here is both comfortable without feeling "grippy."
+
+![164555](media/casio_prw_3100/164555.jpg)
+
+The left side of the watch features the "AB" part of the ABC sensor, along with two buttons.  These metallic (presumably steel) buttons feature an embossed sunbeam design and have chamfered edges lending to a more sophisticated look.  The steel sensor cap, on the other hand, sports a simpler brushed look with two visible screws and two inlet vents inside of which a steel mesh can be seen.  Where older watches (such as the PRT-40) located their magnetic compass sensor in this position, the PRW-3100 instead has (presumably) both the temperature and barometric sensors.  There is no external indication as to where the sensor for the compass has been relocated.
+
+![164606](media/casio_prw_3100/164606.jpg)
+
+It's all buttons on the right side of the device.  The buttons feature a rugged diamond-shaped knurling for non-slip actuation with wet hands or gloves.  Clearly visible in this photo are the body protrusions that surround each button by about 1/3 on the back side to prevent their accidental activation.
+
+![164628](media/casio_prw_3100/164628.jpg)
+
+![164656](media/casio_prw_3100/164656.jpg)
+
+![164740](media/casio_prw_3100/164740.jpg)
+
+The band features a simple, slightly-oversized buckle that tastefully includes "Casio Thailand" embossed on the underside.  No gaudy logos, [Invicta](../2011/2011-12-30-invicta-3449-review.md) 
 
 **Features**
 
@@ -42,6 +66,8 @@ The PRW-3100 is, in a word, small.  Smaller than I expected, anyway.  Compared t
 **Final Thoughts**
 
 **Conclusion**
+
+While my initial reaction was amazement at the fact that the same technology in the PRT-40– and then some– has been crammed into the much more svelte PRW-3100, a quick look at [the history of Pro Trek watch models](https://protrek.com/asia-mea/en/concept/history.html) reminds me that it has been a whopping seventeen years between the release of the two models.  That seems like an awfully long time, but lest we forget, it was 4 years after the PRW-3100 was released before the [Apple Watch](https://en.wikipedia.org/wiki/Apple_Watch) received a barometric sensor, and another two years after that until it came with a magnetic compass.  Nevermind a long battery life and solar charging; the PRW-3100 seems to hold its own in the self-sufficient hardware department.
 
 I paid $99.99 for it!
 
