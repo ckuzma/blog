@@ -17,15 +17,23 @@ Haute horology, this is not.  The PRW-3100 comes in one of the most unpretentiou
 
 ![131616](media/casio_prw_3100/131616.jpg)
 
-Upon opening the top panel of the box I was greeted with what might qualify as the thickest user's guide to ever accompany a wristwatch, plus a small pop-up plackard detailing the features of Casio's Triple Sensor.  The latter might indicate that the watch I received might have originally been destined for in-person retail, where the watch might be put on display next to the bundled placard.  However this particular watch was shipped directly to me by Amazon, so it's also possible that the packaging for the PRW-3100 is the same for everyone, retail customer or not.
+Upon opening the top panel of the box I was greeted with what might qualify as the thickest user's guide to ever accompany a wristwatch, plus a small pop-up plackard detailing the features of Casio's Triple Sensor.  At this point a cardboard flap was exposed which gave access further into the box.
 
 ![131704](media/casio_prw_3100/131704.jpg)
+
+Lo and behold, it turns out that the PRW-3100 comes in more than just a cardboard box!  (Looking at you, Timex.)  Though with an average price of around $200, perhaps this should be less of a surprise and more of an expectation.  Nevertheless it is a nice addition to the overall package, and the minimal decoration matching that of the exterior cardboard box is tasteful.
+
 ![132012](media/casio_prw_3100/132012.jpg)
+
+The box itself is made out of a wood composite, and only contains the watch in a clear plastic sleeve surrounded by a thick paper holder.  (Pretty boring stuff, hence the lack of a picture.)  A hunch tells me all of the packaging has recycling / composting in mind which seems rather fitting given the types of activities an owner of this type of watch is likely to engage in.  But that's a conversation best saved for a later section!
 
 **Design**
 
 ![132241](media/casio_prw_3100/132241.jpg)
-![164](media/casio_prw_3100/164.jpg)
+
+The PRW-3100 is, in a word, small.  Smaller than I expected, anyway.  Compared to the PRT-40 I owned many years ago, I'm amazed that Casio was able to incorporate all of the same feature– and more!– into a much more wrist-friendly package.  Size-wise I found it to be in the same ballpark as the Swatch I received from my girlfriend, model SUSB404.
+
+![164](media/casio_prw_3100/164451.jpg)
 
 **Features**
 
@@ -34,6 +42,8 @@ Upon opening the top panel of the box I was greeted with what might qualify as t
 **Final Thoughts**
 
 **Conclusion**
+
+I paid $99.99 for it!
 
 
 <!-- 
