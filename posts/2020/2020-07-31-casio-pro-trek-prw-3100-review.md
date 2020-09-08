@@ -31,7 +31,7 @@ The box itself is made out of a wood composite, and only contains the watch in a
 
 ![132241](media/casio_prw_3100/132241.jpg)
 
-The PRW-3100 is small.  Or, at least compared to the PRT-40 that I owned two decades ago, it is.  Sitting next to my Swatch SUSB404 (pictured above) and the new Pro Trek is obviously a bit bigger, with its rugged protruding bezel, accidental-button-press-protectors, and fixed-angle strap attachment points being responsible for most of that extra bulk.
+The PRW-3100 is small.  Or, at least compared to the [PRT-40 that I owned two decades ago](https://protrek.com/asia-mea/en/concept/history.html), it is.  Sitting next to my Swatch SUSB404 (pictured above) and the new Pro Trek is obviously a bit bigger, with its rugged protruding bezel, accidental-button-press-protectors, and fixed-angle strap attachment points being responsible for most of that extra bulk.
 
 ![164451](media/casio_prw_3100/164451.jpg)
 
@@ -74,7 +74,7 @@ The band features a simple, slightly-oversized buckle that tastefully includes "
     - Max/min records for altitudes and ascent/descent rates
     - Stopwatch
     - Timer
-    - Alarms (x 4)
+    - Alarms (4)
     - UTC time + home time
     - Last receipt of time via radio
 
@@ -84,47 +84,18 @@ The PRW-3100 straps easily to one's wrist, though the spacing between sizing hol
 
 Something I'd learned from my short time owning a Citizen Navihawk (model JY8035-04E) is that my apartment acts similarly to a faraday cage.  While this seems to have lent itself to reliable WiFi coverage within the confines of my unit, radio signals attempting to leave or enter don't fare so well.  Be it 4G LTE, Amateur Radio, or the atomic time radio signals broadcast by [WWVB near Fort Collins, CO](https://en.wikipedia.org/wiki/WWVB), these services are difficult to take advantage of unless the affected device is propped up in a window.  This has caused the radio-synchronized clock in my bathroom to fall out of sync, rendered my transmissions to local HAMs nearly inaudible, and effectively neutered the aforementioned Citizen wristwatch no matter where it is located within the confines of my apartment.
 
-However things are a bit different, in a good way, for the PRW-3100.  Through a bit of trial and error, I found out that the watch actually manages to achieve a great reception signal of the time broadcast when placed near any of the windows.  Considering that the Pro Trek is significantly smaller than the Navihawk, I consider this a significant strength in Casio's favor.  It probably then goes without saying that anywhere the (bigger and pricier) Citizen had been able to obtain a WWVB signal, so too did the Casio, but that's not as exciting as the at-home-in-Seattle performance I just described.
+However things turned out to be a bit different for the PRW-3100.  Through a bit of trial and error I found out that the watch actually manages to achieve a solid signal lock of the time broadcast when placed near any of the windows.  Considering that the Pro Trek is significantly smaller than the Navihawk, I consider this a significant strength in Casio's favor.  It then probably then goes without saying that anywhere the (bigger and pricier) Citizen had been able to obtain a WWVB signal, so too did the Casio, but that's not as exciting as the at-home-in-Seattle performance I just described.
 
-**Final Thoughts**
+When the opportunity arose to accompany a colleague on a short day hike nearby, the PRW-3100 came along for the ride.  From the moment we stepped out of the car at the trailhead to the moment we returned, I kept the Pro Trek busy.  Kept in altitude measurement mode– with a few exceptions to take compass readings– the watch never missed a beat.  Afterwards, the built-in record keeping indicated that our hike took us to an elevation of 3,235 feet above sea level, with a total ascent of 420 feet from start to finish.  Given that [the official trail information](https://www.wta.org/go-hiking/hikes/lodge-lake) indicates a summit of 3,500 feet and a total of 500 feet of altitude gain, these numbers are perfectly acceptable.  Especially given that the watch relied soley on barometric pressure sensor readings taken over the course of a couple of hours during which the atmospheric pressure itself could have changed.
 
+Now, while a compass wasn't necessary on our hike given the well-worn and well-populated path, I still took a few readings with the Pro Trek and compared them to a trusty Brunton that I'd also packed for the hike.  I was pleased to see both tools were in agreement with their readings, as they varied significantly (5-10°) when used within the confines of my steel-and-cement apartment building.  Ultimately I would have to admit that I trust the non-digital Brunton for use in a dense urban environment more than I would the Casio, if only because the sudden and potentially erratic movements of a physical needle are a better indication of nearby interfering magnetic fields than the digital readout afforded by the Pro Trek.
 
-Annoyingly, the exact same scenario aversely affects one of my favorite features of the watch: the continuous barometric history graph that can be made permanently visible on the main time mode screen.  This graph is unfortunately affected by the altitude difference between my apartment and the elevator ride to the top or bottom of the building, and makes it nearly impossible to analyze barometric trends should I find myself running in and out of my building during the day.
-
-
+At this point you may be asking yourself when I am going to touch on the subject of solar charging.  Well, I left the watch in a window in the sun for a few hours when I first got it, and after that I've never seen the power level indicator drop below the high indicator.  That's with usage of the sensors, backlight, and WWVB synchronization.  Put simply, this watch seems to sip power and I haven't ever found myself wondering if I'm using the watch's features too much.  It all feels very "normal" to me.  End of story.
 
 **Conclusion**
 
-While my initial reaction was amazement at the fact that the same technology in the PRT-40– and then some– has been crammed into the much more svelte PRW-3100, a quick look at [the history of Pro Trek watch models](https://protrek.com/asia-mea/en/concept/history.html) reminds me that it has been a whopping seventeen years between the release of the two models.  That seems like an awfully long time, but lest we forget, it was 4 years after the PRW-3100 was released before the [Apple Watch](https://en.wikipedia.org/wiki/Apple_Watch) received a barometric sensor, and another two years after that until it came with a magnetic compass.  Nevermind a long battery life and solar charging; the PRW-3100 seems to hold its own in the self-sufficient hardware department.
+And that's the thing about the Casio Pro Trek PRW-3100: it all feels very normal, except it isn't.  It has an easy-to-read display, a convenient LED-based backlight (which I do wish was of the more uniform Electro Luminescence-type), and a comfortable design.  But hidden amongst those basics are features that make it more than just a watch.  Take, for example, the barometric pressure history graph that can be displayed on the main time screen.  Most mornings I take a quick glance at that instead of my smartphone in order to figure out what to wear that day.  (Annoyingly, though, this graph becomes much harder to interpret when readings aren't taken from a stationary location, such as down on the street or up on the roof of my building.)
 
-I paid $99.99 for it!
+What's amazing– beyond the fact that I snagged mine for a penny shy of a single Benjamin– is how effortlessly the PRW-3100 has worked itself into my collection and rotation of wear.  Over a decade ago I made the transition to mechanical timepieces and I never thought I'd find myself interested in a watch with a digital display again.  Sure, there was the Navihawk I briefly owned, but that was a hybrid piece incorporating technologies I was fascinated by.  The PRW-3100 has much of the same technology but _also_ rekindles the excitement of child-me that owned a PRT-40 and ran around with it taking measurements of everything I could.  Except this time, I don't have to worry about depleting an expensive button-cell battery and asking my parents for additional household chores in order to be able to afford a new one.
 
-
-<!-- 
-I really like wristwatches.  This might come as a bit of a surprise to some, given that historically I have dedicated comparatively little time– pun intended– towards writing watch reviews for this blog with but a [couple](../2011/2011-12-30-invicta-3449-review.md) of [exceptions](../2013/2013-02-19-more-closet-treasures-fossil-abacus.md).  However, unlike the vast majority of wristwatch afficionados, I would not consider myself a so-called "collector" by any stretch of the imagination.
-
-Sure, I currently own and regularly wear a handful of wristwatches, but I wouldn't consider myself to be a fan of classical [_haute holology_](https://www.watch-wiki.net/index.php?title=Haute_Horlogerie).  Luxury watches simply don't appeal to me in the way they do to many of the mainstream watch collectors one finds on YouTube.  Rolex?  Not for me.  Audemars Piguet?  Too much bling.
-
-That isn't to say there are some luxury watches that tickle my fancy.  Richard Mille, with their wire-suspended custom movements, or Piaget, for pushing the boundary of just how thin a mechanical watch can be made.  However the watches from those companies are, quite simply, astronomically priced.  The value they provide simply doesn't seem worth it compared to more similar and yet more economical models made by Casio or Swatch.  I recognize that the R&D effort to design and build [Rafael Nadal's Richard Mille](https://www.richardmille.com/friends-and-partners/rafael-nadal) compared to a Casio G-Shock is akin to designing ceramic tiles for the Space Shuttle versus clay bricks for a fire pit, but given that the likelihood of tending a backyard fire is mucher for most of us as opposed to hurtling through the atmosphere at 17,000 miles-per-hour, I think the cheaper option will do just fine for my use cases.
-
-Perhaps my mentality stems from my personal history of owning watches that were both budget-friendly as well as extremely useful.  Take, for example, one of the first watches I ever remember owning: the Radio Shack 63-5021 calculator watch from 1999.  (Or so I think, anyway.  I can't find any good information about it online.)  This was a more-or-less impulse purchase by my dad, who purchased two identical units on the spot for my brother and I when we accompanied him to Radio Shack when I was a kid.  Despite the fact that I didn't have much reason to _use_ a calculator watch– I was only 9 or so years old at the time– I fondly remember that watch returning to my wrist intermittently through 5th grade until the keypad finally bit the dust.
-
-Then there was the Casio W-736H-2AV, my first ever Casio watch.  Featuring a built-in vibrating alarm, it was responsible for waking me up every morning without pestering my brother with whom I shared a room.  Of course it didn't do me much good once I stopped wearing a wristwatch to bed, but that didn't change the fact that it was a watch with a unique feature and I thought it was cool at the time.
-
-Nowhere near as cool, however, as my next Casio watch: the Pro Trek PRT-40.  A beast of a watch, my brother and I again acquired matching (albeit in different color schemes) timepieces while on a family vacation in Hong Kong.  Equipped with Casio's first-gen ABC (Altimeter, Barometer, Compass (and Thermometer, which somehow never made the cut for the acronym)) sensor, a big LCD featuring a small array section for graphs, and indiglo backlighting, this was a go-anywhere, do-everything watch for the active outdoorsman.  Being only 12 years old at the time, that description obviously didn't fit me.  But I was far more interested in what my watch was capable of as opposed to what I myself was actually doing. 
-
-**Multifunction Watches Owned (Chronological Order):**
-- Radio Shack 63-5021 (Calculator Watch) (From 1999 according to a manual I found)
-- Casio W-736H-2AV (Vibrating Alarm)
-- Casio PRT-40 (Pro Trek w/ABC Sensor)
-- Timex TMX2 (MP3 Player)
-- Casio WQV-3 (Color Camera) (_Also worn by Sir Paul McCartney!_)
-- Misfit Shine (Activity and Sleep Tracking)
-- Pebble (Phone Notifications)
-- Citizen Navihawk JY8035-04E (Solar, Atomic, UTC, Slide Rule)
-- Casio PRW-3100YB-1CR (New)
-
-**Lusted after**
-PRT-1GP = GPS watch w/big lithium battery
-
- -->
+At the end of the day I'm pleased by the Casio Pro Trek PRW-3100.  While one might argue that it's more or less the same watch I owned [two decades ago](https://protrek.com/asia-mea/en/concept/history.html) with very little changed, I would argue that the subtle refinements throughout the years have created a highly-optimized tool.  And that's exactly what it is, because the PRW-3100 was designed to be used without tethers to another device long after smartwatches have given up the ghost.  It's a watch for those who relish in an adventure.
