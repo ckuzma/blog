@@ -2,6 +2,22 @@
 # The Blog of Christopher Kuzma
 
 ---
+
+#### 08.09.2020
+### Casio Pro Trek PRW-3100 Review
+
+![header-image](posts/2020/media/casio_prw_3100/164451.jpg)
+
+**Introduction**
+
+Let's cut straight to the chase: the Casio Pro Trek PRW-3100 is is _not_ a member of high-brow [haute horology](https://www.watch-wiki.net/index.php?title=Haute_Horlogerie).  Nothing about it resembles those meticulously-polished, might-as-well-be-bespoke timepieces with their eye-watering price tags and tuxedoed brand representatives.  Where those _other_ watches might hope to find themselves adorning the wrists of VIPs while they're being photographed by paparazzi, the Casio being reviewed today has the more humble goal of simply returning home in one piece after an adventure.
+
+So who, then, is the PRW-3100 targeted at?  If it's not trying to weasel itself into what one might think of as the typical watch enthusiast's collection, then who is buying it?  And why?  In this review we'll hopefully figure that out.
+
+**[Continue reading --->](posts/2020/2020-09-08-casio-pro-trek-prw-3100-review.md)**
+
+----
+
 #### 02.09.2020
 ### Start of HoverGames 2 Project
 
