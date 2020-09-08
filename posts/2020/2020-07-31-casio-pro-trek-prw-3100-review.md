@@ -7,7 +7,7 @@
 
 Let's cut straight to the chase: the Casio Pro Trek PRW-3100 is is _not_ a member of high-brow [haute horology](https://www.watch-wiki.net/index.php?title=Haute_Horlogerie).  Nothing about it resembles those meticulously-polished, might-as-well-be-bespoke timepieces with their eye-watering price tags and tuxedoed brand representatives.  Where those _other_ watches might hope to find themselves adorning the wrists of VIPs while they're being photographed by paparazzi, the Casio being reviewed today merely hopes to return home from an outdoors adventure in one piece.
 
-So who, then, is the PRW-3100 targeted at?  If it's not trying to weasel itself into what one might think of as the typical watch enthusiast's collection, then who is buying it, and why?
+So who, then, is the PRW-3100 targeted at?  If it's not trying to weasel itself into what one might think of as the typical watch enthusiast's collection, then who is buying it, and why?  In this review we'll hopefully figure that out.
 
 **Unboxing**
 
@@ -57,13 +57,41 @@ It's all buttons on the right side of the device.  The buttons feature a rugged 
 
 ![164740](media/casio_prw_3100/164740.jpg)
 
-The band features a simple, slightly-oversized buckle that tastefully includes "Casio Thailand" embossed on the underside.  No gaudy logos, [Invicta](../2011/2011-12-30-invicta-3449-review.md) 
+The band features a simple, slightly-oversized buckle that tastefully includes "Casio Thailand" embossed on the underside.  No gaudy logos-just-because ala [Invicta](../2011/2011-12-30-invicta-3449-review.md) here!  ...mostly.  The band still sports massive "PRO TREK" raised lettering on the band, but thankfully this is mostly covered by the excess strap when it is being worn.
 
 **Features**
 
+- Solar charging
+- Radio-controlled atomic time synchronization (USA, UK, Germany, Japan, China)
+- Pro Trek Version 3 Triple Sensor ("ABC")
+    - Altimeter
+    - Barometer
+    - Compass
+    - Thermometer (which is somehow always forgotten)
+- LED backlight
+- Modes
+    - Sun up/down schedule based on latitude and longitude
+    - Max/min records for altitudes and ascent/descent rates
+    - Stopwatch
+    - Timer
+    - Alarms (x 4)
+    - UTC time + home time
+    - Last receipt of time via radio
+
 **Using It**
 
+The PRW-3100 straps easily to one's wrist, though the spacing between sizing holes on the resin band is a little larger than I would prefer.  Once on, though, the Pro Trek feels more or less like a "normal watch" in terms of size and weight.  And this theme of "normal" can be applied to many of the PRW-3100's other attributes and features.
+
+Something I'd learned from my short time owning a Citizen Navihawk (model JY8035-04E) is that my apartment acts similarly to a faraday cage.  While this seems to have lent itself to reliable WiFi coverage within the confines of my unit, radio signals attempting to leave or enter don't fare so well.  Be it 4G LTE, Amateur Radio, or the atomic time radio signals broadcast by [WWVB near Fort Collins, CO](https://en.wikipedia.org/wiki/WWVB), these services are difficult to take advantage of unless the affected device is propped up in a window.  This has caused the radio-synchronized clock in my bathroom to fall out of sync, rendered my transmissions to local HAMs nearly inaudible, and effectively neutered the aforementioned Citizen wristwatch no matter where it is located within the confines of my apartment.
+
+However things are a bit different, in a good way, for the PRW-3100.  Through a bit of trial and error, I found out that the watch actually manages to achieve a great reception signal of the time broadcast when placed near any of the windows.  Considering that the Pro Trek is significantly smaller than the Navihawk, I consider this a significant strength in Casio's favor.  It probably then goes without saying that anywhere the (bigger and pricier) Citizen had been able to obtain a WWVB signal, so too did the Casio, but that's not as exciting as the at-home-in-Seattle performance I just described.
+
 **Final Thoughts**
+
+
+Annoyingly, the exact same scenario aversely affects one of my favorite features of the watch: the continuous barometric history graph that can be made permanently visible on the main time mode screen.  This graph is unfortunately affected by the altitude difference between my apartment and the elevator ride to the top or bottom of the building, and makes it nearly impossible to analyze barometric trends should I find myself running in and out of my building during the day.
+
+
 
 **Conclusion**
 
@@ -93,7 +121,7 @@ Nowhere near as cool, however, as my next Casio watch: the Pro Trek PRT-40.  A b
 - Casio WQV-3 (Color Camera) (_Also worn by Sir Paul McCartney!_)
 - Misfit Shine (Activity and Sleep Tracking)
 - Pebble (Phone Notifications)
-- Citizen JY8035-04E (Solar, Atomic, UTC, Slide Rule)
+- Citizen Navihawk JY8035-04E (Solar, Atomic, UTC, Slide Rule)
 - Casio PRW-3100YB-1CR (New)
 
 **Lusted after**
