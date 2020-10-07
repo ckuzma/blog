@@ -1,4 +1,8 @@
-Version 1.0 (Doesn't look janky at all!)
+#### 08.03.2016
+### Project: Automatic Apartment Heating/Cooling Control
+
+![Version 1](./media/heater-control-v1.jpeg)
+> Version 1.0 (Doesn't look janky at all!)
 
 _[Update (May 1, 2016): Over a couple of hours this evening I managed to hack together most everything within the Arduino IDE, negating the need to use Lua at all. The temperature and heater status is additionally broadcasted to the IBM Internet of Things Foundation service, awaiting use. That latest code can be found here, and will be updated to give all contributing parties their due share of credit once I have time to do so.]_
 
