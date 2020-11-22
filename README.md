@@ -1,7 +1,24 @@
 ### [Blog Homepage](https://github.com/ckuzma/blog) | [About the Author](https://ckuzma.github.io/) | [Posts Archive](/posts)
 # The Blog of Christopher Kuzma
 
----
+----
+
+#### 21.11.2020
+### Second S-Pixie Radio Built
+
+![Start of assembly with bare components.](posts/2020/media/pixie_s/141756_001.jpeg)
+> The bare components laid out for inspection while the soldering iron got up to temperature.
+
+_This is part of an ongoing series of documentation for my entry into [Hackster and NXP's HoverGames Challenge 2](https://www.hackster.io/contests/hovergames2) contest.  Links to the related blog posts can be found below:_
+- _[Part 1: Pixie QRP Transceiver Assembly (Part 1)](./2020-07-12-pixie-transciever-pt1.md)_
+- _[Part 2: Pixie QRP Transceiver Assembly (Part 2)](./2020-07-13-pixie-transciever-pt2.md)_
+- _[Part 3: Building a Morse key](./2020-09-21-morse-key.md)_
+
+A few days ago I finally managed to carve out some time to build the second of the two S-Pixie radio transceiver kits that I had ordered.  Perhaps it shouldn't have been surprising, but it only took me a fraction of the amount of time to complete compared to my first build.  Being able to make use of my father's not-budget-bin soldering iron was a big help as well.  I hope [the Pinecil](https://pine64.com/product-category/soldering-irons/?v=0446c16e2e66) is released for sale soon...
+
+**[Continue reading --->](posts/2020/2020-11-22-second-pixie-built.md)**
+
+----
 
 #### 21.09.2020
 ### S-Pixie Morse Key
@@ -43,16 +60,5 @@ Cameras?  Ribbon cables?  Wires?  Serial adapters?  Embedded linux?  That spells
 **[Continue reading --->](posts/2020/2020-09-02-hovergames-start.md)**
 
 ----
-
-#### 31.08.2020
-### Nintendo Switch Pro Controller Joystick Drift Repair
-
-![switch_controller01](posts/2020/media/switch_controller/switch_controller01.jpg)
-
-Alas, my Nintendo Switch Pro Controller finally fell victim to the surprisingly-common [joystick drift issue](https://en-americas-support.nintendo.com/app/social/questions/detail/qid/78176/~/pro-controller-drifting), for which the internet has thankfully already come up with [some easy fixes](https://www.nintendolife.com/news/2020/08/guide_how_to_fix_a_drifting_nintendo_switch_pro_controller).  Armed with a small screwdriver, plastic pry tool, and [a repair guide from iFixit](https://www.ifixit.com/Device/Switch_Pro_Controller), I sat down to solve my newfound pet peeve.  What follows are a few photos that I took along the way along with a small bit of an explanation of what I was doing.
-
-**[Continue reading --->](posts/2020/2020-08-31-switch-controller-drift-fix.md)**
-
----
 
 ## [View older posts --->](/posts)
