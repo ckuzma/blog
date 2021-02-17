@@ -2,6 +2,19 @@
 # The Blog of Christopher Kuzma
 
 ----
+#### 16.02.2021
+### Adventures in 3D Printing: MPowerd Luci Candle Housing
+
+![Before/After Comparison Photo](posts/2021/media/luci/01comparison.jpeg)
+> Above we see a possible desired outcome on the left, and the starting point for the project on the right.
+
+My first encounter with an MPowerd product involved the Luci, now known as the [Luci Original](https://mpowerd.com/products/luci-original-f2017) (and also sporting a few small design tweaks).  A potential lifesaver for the outdoors afficionado, I still have at least one of those packed away with my camping gear and emergency supplies.  The basic design involves an LED lantern combined with a solar charging circuit enclosed in a soft inflatable plastic structure similar to a beach ball, rendering the whole thing both waterproof as well as bouyant.
+
+Unfortunately, as a diffuser, the soft plastic shell leaves something to be desired.  After I picked up a couple of [Luci Candle](https://mpowerd.com/products/luci-candle) lanterns for use around the home-- what can I say, I'm a sucker for eco-friendly tech-- I decided to create my own modern and minimalist housing for the internal circuitry of the lamp with the goal of designing something a bit more appropriate for a domestic environment.  I think I succeeded, but first let's dive into how I arrived at my solution.
+
+**[Continue reading --->](posts/2021/2021-02-16-luci-housing.md)**
+
+----
 
 #### 21.11.2020
 ### Second S-Pixie Radio Built
@@ -45,19 +58,6 @@ Let's cut straight to the chase: the Casio Pro Trek PRW-3100 is is _not_ a membe
 So who, then, is the PRW-3100 targeted at?  If it's not trying to weasel itself into what one might think of as the typical watch enthusiast's collection, then who is buying it?  And why?  In this review we'll hopefully figure that out.
 
 **[Continue reading --->](posts/2020/2020-09-08-casio-pro-trek-prw-3100-review.md)**
-
-----
-
-#### 02.09.2020
-### Start of HoverGames 2 Project
-
-![unpack01](posts/2020/media/hovergames2/unpack04.jpg)
-
-Cameras?  Ribbon cables?  Wires?  Serial adapters?  Embedded linux?  That spells only one thing: another hackathon project!  This time around it's not an altogether new contest as it builds upon the back of the [first NXP HoverGames](https://www.hackster.io/contests/hovergames) hackathon.  Different this time around is a little more freedom; whereas the first HoverGames was bound around the task of fighting fires, [HoverGames Challenge 2](https://www.hackster.io/contests/hovergames2) is a lot more open ended.  If it fits the challenge's top-level description of "_Help Drones, Help Others During Pandemics_" then it qualifies as an entry.
-
-...So long as it also adheres to the hardware requirements, ayway.  And new this time around is an [NXP i.MX 8M Mini](https://emcraft.com/products/1097#starter-kit) System-On-Module computer with a few additional goodies.  And yes, before you ask, I do think that this is a horribly complicated name to give to a ~~single-board~~ sandwich computer system.  But let's not digress too far, because the point of this post is to show off the hardware and what I've done to it so far.
-
-**[Continue reading --->](posts/2020/2020-09-02-hovergames-start.md)**
 
 ----
 
