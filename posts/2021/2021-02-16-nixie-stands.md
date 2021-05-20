@@ -23,4 +23,9 @@ That's when I stumbled across [a 3D model of the NCS312 board, created by GRA & 
 ![Stands seen from behind.](media/nixie_stand/002.jpeg)
 ![Detail on printed standoff spacers.](media/nixie_stand/003.jpeg)
 
+I'm pleased with the end result, even though the stands themselves aren't the most aesthetically pleasing thing to look at.  My intention is to re-print them in black and then eventually attempt to stylize them to look a little more... interesting.
+
+
+For now, though, the FreeCAD model and STL meshes can be found in my GitHub repo here:
+
 - https://github.com/ckuzma/nixie-clock-stands

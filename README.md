@@ -2,6 +2,20 @@
 # The Blog of Christopher Kuzma
 
 ----
+
+#### 16.02.2021
+### Adventures in 3D Printing: Nixie Clock Stands
+
+![Finished stands on working clock.](posts/2021/media/nixie_stand/000.jpeg)
+
+> The completed stand running my own [slightly modified version](https://github.com/ckuzma/NixieTubesShieldNCS314) of the [official stock firmware](https://github.com/afch/NixeTubesShieldNCS314).  (Most notably the blinking neon digit indicators have been disabled.)
+
+Despite investing a not-insignificant amount of time and energy into [the woden case I built for my nixie tube clock last year](../2020/2020-04-18-nixie-tube-box-case-part-2.md), I could never shake the feeling that it was just temporary.  Be it the lack of access to the control buttons, the horrendously abrasive sound that would be emitted by the lone tilt screw when dragged across a surface, or the somewhat poor appearance of the wood finish itself, I just never loved it.
+
+**[Continue reading --->](posts/2021/2021-02-16-nixie-stands.md)**
+
+----
+
 #### 16.02.2021
 ### Adventures in 3D Printing: MPowerd Luci Candle Housing
 
@@ -43,21 +57,6 @@ A few days ago I finally managed to carve out some time to build the second of t
 As part of my ongoing participation in [Hackster and NXP's HoverGames Challenge 2](https://www.hackster.io/contests/hovergames2) contest, I previously built an S-Pixie [QRP](http://www.arrl.org/why-qrp) 40-meter band (7.030 MHz) CW (Morse) radio transceiver (see [Part 1](./2020-07-12-pixie-transciever-pt1.md) and [Part 2](./2020-07-13-pixie-transciever-pt2.md)).  This small pocket-sized device radio can be used by any licensed amateur radio operator, so long as it is hooked up to a source of power, antenna, headphones, and some sort of tool for creating the dits and dahs that make up Morse code.  While just any tool capable of succinctly opening and closing an electrical circuit will be sufficient for use with the S-Pixie, I decided to pick up a MFJ-550 straight key [from Gigaparts](https://www.gigaparts.com/mfj-550.html).
 
 **[Continue reading --->](posts/2020/2020-09-21-morse-key.md)**
-
-----
-
-#### 08.09.2020
-### Casio Pro Trek PRW-3100 Review
-
-![header-image](posts/2020/media/casio_prw_3100/164451.jpg)
-
-**Introduction**
-
-Let's cut straight to the chase: the Casio Pro Trek PRW-3100 is is _not_ a member of high-brow [haute horology](https://www.watch-wiki.net/index.php?title=Haute_Horlogerie).  Nothing about it resembles those meticulously-polished, might-as-well-be-bespoke timepieces with their eye-watering price tags and tuxedoed brand representatives.  Where those _other_ watches might hope to find themselves adorning the wrists of VIPs while they're being photographed by paparazzi, the Casio being reviewed today has the more humble goal of simply returning home in one piece after an adventure.
-
-So who, then, is the PRW-3100 targeted at?  If it's not trying to weasel itself into what one might think of as the typical watch enthusiast's collection, then who is buying it?  And why?  In this review we'll hopefully figure that out.
-
-**[Continue reading --->](posts/2020/2020-09-08-casio-pro-trek-prw-3100-review.md)**
 
 ----
 
