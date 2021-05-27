@@ -1,7 +1,7 @@
 #### 30.12.2017
 ### RGB LED Matrix Board - "The Litebrite"
 
-> _**5/26/2021 Update**: Added lost photos to project after having recovered them from old documentation._
+> _**5/26/2021 Update**: Added lost photos to project after having recovered them from old documentation.  For the newer version of this project, check out [the post I wrote about the new, larger, and improved board](../2020/2020-02-05-rgb-wall-display-board-part-1.md)._
 
 ![twinkle02](media/rgb_matrix/twinkle02.gif)
 
