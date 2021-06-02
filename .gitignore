@@ -1,3 +1,6 @@
 *.Identifier
 *.ini
 .DS_Store
+
+# To-be-blogged content stored locally
+to_blog/*
