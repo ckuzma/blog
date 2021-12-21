@@ -3,6 +3,21 @@
 
 ----
 
+#### 17.07.2021
+### Adventures in 3D Printing: Dipole Antenna
+
+![Finished dipole and mount on railing](posts/2021/media/dipole/finished_02.png)
+
+> The completed dipole antenna and railing bracket / arms mounted to the railing of my apartment's balcony.
+
+During the winter of 2020 I decided to jump into a new hobby: amateur radio.  My first contacts were made with a Baofeng UV-5R, the same handheld transceiver that many HAMs get started with these days.  However it wasn't long until I began to lament the inconveniences of using an HT ("Handy Talkie" in HAM parlance).  Standing in just the right spot to transmit and receive successfully meant I rarely attempted a simplex conversation with my licensed coworker just down the road, and partaking in the evenings nets on the local repeater was usually limited to an in-and-out check-in.
+
+The obvious solution to me at the time was to fit a better antenna on my radio.  While this did seem to help marginally, the almost-a-faraday-cage that was my apartment rendered the upgrade mostly moot.  What I thus decided I needed was a more powerful radio transceiver and a fixed external antenna.  While the former would require significant work to build myself, I decided that I was handy enough to design and create the latter with ease.
+
+**[Continue reading --->](posts/2021/2021-07-17-dipole.md)**
+
+----
+
 #### 16.02.2021
 ### Adventures in 3D Printing: Nixie Clock Stands
 
@@ -44,19 +59,6 @@ _This is part of an ongoing series of documentation for my entry into [Hackster 
 A few days ago I finally managed to carve out some time to build the second of the two S-Pixie radio transceiver kits that I had ordered.  Perhaps it shouldn't have been surprising, but it only took me a fraction of the amount of time to complete compared to my first build.  Being able to make use of my father's not-budget-bin soldering iron was a big help as well.  I hope [the Pinecil](https://pine64.com/product-category/soldering-irons/?v=0446c16e2e66) is released for sale soon...
 
 **[Continue reading --->](posts/2020/2020-11-22-second-pixie-built.md)**
-
-----
-
-#### 21.09.2020
-### S-Pixie Morse Key
-
-![Morse key and S-Pixie radio transceiver](posts/2020/media/morse_key_build/001.jpg)
-
-> Mounted Morse key connected to the S-Pixie radio transceiver.  Connected in lieu of an antenna is a 50Ω dummy-load for testing purposes.
-
-As part of my ongoing participation in [Hackster and NXP's HoverGames Challenge 2](https://www.hackster.io/contests/hovergames2) contest, I previously built an S-Pixie [QRP](http://www.arrl.org/why-qrp) 40-meter band (7.030 MHz) CW (Morse) radio transceiver (see [Part 1](./2020-07-12-pixie-transciever-pt1.md) and [Part 2](./2020-07-13-pixie-transciever-pt2.md)).  This small pocket-sized device radio can be used by any licensed amateur radio operator, so long as it is hooked up to a source of power, antenna, headphones, and some sort of tool for creating the dits and dahs that make up Morse code.  While just any tool capable of succinctly opening and closing an electrical circuit will be sufficient for use with the S-Pixie, I decided to pick up a MFJ-550 straight key [from Gigaparts](https://www.gigaparts.com/mfj-550.html).
-
-**[Continue reading --->](posts/2020/2020-09-21-morse-key.md)**
 
 ----
 
