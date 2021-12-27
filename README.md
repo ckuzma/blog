@@ -3,6 +3,27 @@
 
 ----
 
+#### 27.12.2021
+### Kano PC Review
+
+![kano pc](posts/2021/media/kano/01.jpeg)
+
+# Introduction
+
+The Kano PC is perhaps best described as a full-fledged modular Windows tablet-computer designed for kids.  It features an Intel Celeron CPU, 4GB of RAM, 64GB of eMMC solid-state storage, an 11.6" touchscreen and a case that doubles as a keyboard reminiscent of a Microsoft Surface device.  But far more important than the device's hardware specifications is its purpose: to inspire curious minds.
+
+# Unboxing and Assembly
+
+That just-mentioned important purpose makes itself known immediately in that the Kano PC ships unassembled.  That is to say, partly unassembled.  Compared to the previous Raspberry Pi-based computers released under the Kano name, the Kano PC is not quite as demanding when it comes to its assembly procedure.  Perhaps that's a good thing, as Kano's previous offerings were potentially too complicated and fragile even for the parents of the target age audience.
+
+![silkscreen micro sd details](posts/2021/media/kano/14.jpeg)
+
+The gist of the assembly experience this time around is: unpack all of the components from the product packaging, connect the blue loudspeaker to the computer's exposed motherboard via an internal 2.5mm audio jack, plug in the red lithium-ion battery via a neighboring USB-C port, and then snap on the clear plastic housing to keep everything protected.  That's it.  No miniscule Micro SD cards to lose under the couch, no RAM cards to install, no fiddly ribbon cables or power lines to mess with this go around.
+
+**[Continue reading --->](posts/2021/2021-12-27-kano-pc-review.md)**
+
+----
+
 #### 17.07.2021
 ### Adventures in 3D Printing: Dipole Antenna
 
@@ -42,23 +63,6 @@ My first encounter with an MPowerd product involved the Luci, now known as the [
 Unfortunately, as a diffuser, the soft plastic shell leaves something to be desired.  After I picked up a couple of [Luci Candle](https://mpowerd.com/products/luci-candle) lanterns for use around the home-- what can I say, I'm a sucker for eco-friendly tech-- I decided to create my own modern and minimalist housing for the internal circuitry of the lamp with the goal of designing something a bit more appropriate for a domestic environment.  I think I succeeded, but first let's dive into how I arrived at my solution.
 
 **[Continue reading --->](posts/2021/2021-02-16-luci-housing.md)**
-
-----
-
-#### 21.11.2020
-### Second S-Pixie Radio Built
-
-![Start of assembly with bare components.](posts/2020/media/pixie_s/141756_001.jpeg)
-> The bare components laid out for inspection while the soldering iron got up to temperature.
-
-_This is part of an ongoing series of documentation for my entry into [Hackster and NXP's HoverGames Challenge 2](https://www.hackster.io/contests/hovergames2) contest.  Links to the related blog posts can be found below:_
-- _[Part 1: Pixie QRP Transceiver Assembly (Part 1)](./2020-07-12-pixie-transciever-pt1.md)_
-- _[Part 2: Pixie QRP Transceiver Assembly (Part 2)](./2020-07-13-pixie-transciever-pt2.md)_
-- _[Part 3: Building a Morse key](./2020-09-21-morse-key.md)_
-
-A few days ago I finally managed to carve out some time to build the second of the two S-Pixie radio transceiver kits that I had ordered.  Perhaps it shouldn't have been surprising, but it only took me a fraction of the amount of time to complete compared to my first build.  Being able to make use of my father's not-budget-bin soldering iron was a big help as well.  I hope [the Pinecil](https://pine64.com/product-category/soldering-irons/?v=0446c16e2e66) is released for sale soon...
-
-**[Continue reading --->](posts/2020/2020-11-22-second-pixie-built.md)**
 
 ----
 
