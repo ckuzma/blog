@@ -3,6 +3,19 @@
 
 ----
 
+#### 15.01.2022
+### Adventures in 3D Printing: VFD Clock Minimalist Housing
+
+![GIF of VFD clock](posts/2022/media/vfd_clock/vfd_header.GIF)
+
+I'm not sure if anyone reading this is aware, but I [really](../2013/2013-02-19-more-closet-treasures-fossil-abacus.md) [like](../2020/2020-04-08-nixie-tube-box-case-part-1.md) [timekeeping](../2020/2020-09-08-casio-pro-trek-prw-3100-review.md) [devices](../2020/2020-03-30-rgb-wall-display-board-part-3.md).  While I have a soft spot for all things mechanical, I do enjoy the myriad of "digital" display technologies that can be employed by clock circuitry.  One of those happens to be the basically-obsolete VFD (vacuum flourescent display) tube.  Similar to the modern AMOLED panel, the pixels in the matrix of a VFD are self-emitting.  Unlike the more modern counterpart, VFDs require significantly higher voltage similar to that of a Nixie tube.
+
+A couple of years ago, whilst trawling the open waters of the internet (read: AliExpress), I stumbled across a simple and cheap VFD clock.  While it's not the most intricate VFD clock out there, I was rather struck by its legible display reminding me quite a bit of the one adorning the face of my grandfather's HiFi audio amplifier.  In-person it was quite enjoyable to look at, but unfortunately it stopped working reliably after a few months.  Being unable to troubleshoot it myself, I took the circuitry and display out of its extruded aluminum housing to save space and put it into my parts bin.
+
+**[Continue reading --->](posts/2022/2022-01-15-vfd-clock-frame.md)**
+
+----
+
 #### 27.12.2021
 ### Kano PC Review
 
@@ -49,20 +62,6 @@ The obvious solution to me at the time was to fit a better antenna on my radio. 
 Despite investing a not-insignificant amount of time and energy into [the woden case I built for my nixie tube clock last year](../2020/2020-04-18-nixie-tube-box-case-part-2.md), I could never shake the feeling that it was just temporary.  Be it the lack of access to the control buttons, the horrendously abrasive sound that would be emitted by the lone tilt screw when dragged across a surface, or the somewhat poor appearance of the wood finish itself, I just never loved it.
 
 **[Continue reading --->](posts/2021/2021-02-16-nixie-stands.md)**
-
-----
-
-#### 16.02.2021
-### Adventures in 3D Printing: MPowerd Luci Candle Housing
-
-![Before/After Comparison Photo](posts/2021/media/luci/01comparison.jpeg)
-> Above we see a possible desired outcome on the left, and the starting point for the project on the right.
-
-My first encounter with an MPowerd product involved the Luci, now known as the [Luci Original](https://mpowerd.com/products/luci-original-f2017) (and also sporting a few small design tweaks).  A potential lifesaver for the outdoors afficionado, I still have at least one of those packed away with my camping gear and emergency supplies.  The basic design involves an LED lantern combined with a solar charging circuit enclosed in a soft inflatable plastic structure similar to a beach ball, rendering the whole thing both waterproof as well as bouyant.
-
-Unfortunately, as a diffuser, the soft plastic shell leaves something to be desired.  After I picked up a couple of [Luci Candle](https://mpowerd.com/products/luci-candle) lanterns for use around the home-- what can I say, I'm a sucker for eco-friendly tech-- I decided to create my own modern and minimalist housing for the internal circuitry of the lamp with the goal of designing something a bit more appropriate for a domestic environment.  I think I succeeded, but first let's dive into how I arrived at my solution.
-
-**[Continue reading --->](posts/2021/2021-02-16-luci-housing.md)**
 
 ----
 

@@ -74,3 +74,12 @@ A conversation I had the other day prompted me to look for the list I'd compiled
 66. Nokia 6.1
 67. Apple iPhone 7
 68. OnePlus 6T
+69. Apple iPhone SE (2nd Gen)
+70. ZTE Blade A3 Prime
+71. Samsung Galaxy Luna
+72. SpareOne Plus
+73. Motorola Moto G Pure
+
+```
+Last updated January 15th, 2022.
+```
