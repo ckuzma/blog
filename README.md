@@ -3,6 +3,17 @@
 
 ----
 
+#### 16.01.2022
+### Photos: Cricket 80A Soldering Project
+
+![cricket_80a_01.jpg](posts/2022/media/cricket_80a/cricket_80a_01.jpg)
+
+There's not much of a story to go with this post, I just thought it would be fun to share some photos.  As a result of my participation in a Hackster contest, I found myself sitting upon some [Tindie](https://www.tindie.com) store credit and decided to put it towards a [Cricket 80A, a ham radio transceiver designed by "NMØS"](http://4sqrp.com/cricket.php) for CW (read: Morse) operation.  What follows are some photos taken while I was soldering components to the board as well as a final one showing the board in operation with its signal being picked up by my HackRF One.
+
+**[Continue reading --->](posts/2022/2022-01-16-cricket-80a-soldering.md)**
+
+----
+
 #### 15.01.2022
 ### Adventures in 3D Printing: VFD Clock Minimalist Housing
 
@@ -49,19 +60,6 @@ During the winter of 2020 I decided to jump into a new hobby: amateur radio.  My
 The obvious solution to me at the time was to fit a better antenna on my radio.  While this did seem to help marginally, the almost-a-faraday-cage that was my apartment rendered the upgrade mostly moot.  What I thus decided I needed was a more powerful radio transceiver and a fixed external antenna.  While the former would require significant work to build myself, I decided that I was handy enough to design and create the latter with ease.
 
 **[Continue reading --->](posts/2021/2021-07-17-dipole.md)**
-
-----
-
-#### 16.02.2021
-### Adventures in 3D Printing: Nixie Clock Stands
-
-![Finished stands on working clock.](posts/2021/media/nixie_stand/000.jpeg)
-
-> The completed stand running my own [slightly modified version](https://github.com/ckuzma/NixieTubesShieldNCS314) of the [official stock firmware](https://github.com/afch/NixeTubesShieldNCS314).  (Most notably the blinking neon digit indicators have been disabled.)
-
-Despite investing a not-insignificant amount of time and energy into [the woden case I built for my nixie tube clock last year](../2020/2020-04-18-nixie-tube-box-case-part-2.md), I could never shake the feeling that it was just temporary.  Be it the lack of access to the control buttons, the horrendously abrasive sound that would be emitted by the lone tilt screw when dragged across a surface, or the somewhat poor appearance of the wood finish itself, I just never loved it.
-
-**[Continue reading --->](posts/2021/2021-02-16-nixie-stands.md)**
 
 ----
 
