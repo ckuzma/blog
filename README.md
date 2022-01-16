@@ -4,6 +4,21 @@
 ----
 
 #### 16.01.2022
+### 3D Printed Carriage Clock Part 1
+
+![clear alarm clock](posts/2022/media/carriage_clock/IMG_2252.jpeg)
+
+Have I ever mentioned before that I really like [timekeeping devices](2022-01-15-vfd-clock-frame.md)?  Even though my first ever wristwatch was, if I remember correctly, a Timex with a digital display, I have always been absolutely enamored by the purely mechanical variety.  That's not to say I can't appreciate a decent [digital](../2020/2020-09-08-casio-pro-trek-prw-3100-review.md), [quartz](../2011/2011-12-30-invicta-3449-review.md), or mecha-quartz timepiece, mind you.  I just love the history, intricacy, and rythmic ticking of a mechanical watch or clock.  Even though they lag in accuracy and must be wound up daily (or worn, in the case of an automatic), I enjoy them immensely.
+
+One can ~~blame~~ credit my parents for this love affair of mine.  From the ancient grandfather clock adjacent to the not-so-ancient grand piano in the living room of their house to the assortment of antique wall clocks forming an ensemble in the main hallway, I've always been surrounded by mechanical wonders.  While not all of them worked, I found myself drawn to my father's surprisingly-functional brass Waterbury carriage clock.  Small enough to be held in one hand yet dense enough to sit solidly atop a stack of papers, I remember spending a full week regulating its escapement to be more or less accurate, MacGyvering a non-permanent paperclip-based fix for the sheared-off pins of the rear door, and generally spending hours staring at the little movement ticking away when I should have been focused on my math homework instead.
+
+Now, as an adult, armed with a 3D printer and mechanical clock movement, I think you can see where this is going.
+
+**[Continue reading --->](posts/2022/2022-01-16-carriage-clock-pt1.md)**
+
+----
+
+#### 16.01.2022
 ### Teardown: HackRF One Portapack H2
 
 In [a recent previous post documenting the assembly of an amateur radio transceiver kit](2022-01-16-cricket-80a-soldering.md), I shared a picture depicting the functional operation of the completed radio.  Specifically, I utilized the display on a a HackRF One in a Portpack H2 housing to demonstrate the transceiver's transmission within the expected frequency band, as well as functioning on/off pulses as is required for CW mode communication.
@@ -35,19 +50,6 @@ One of the requirements I placed on myself was to somehow mimic a "traditional" 
 There's not much of a story to go with this post, I just thought it would be fun to share some photos.  As a result of my participation in a Hackster contest, I found myself sitting upon some [Tindie](https://www.tindie.com) store credit and decided to put it towards a [Cricket 80A, a ham radio transceiver designed by "NMØS"](http://4sqrp.com/cricket.php) for CW (read: Morse) operation.  What follows are some photos taken while I was soldering components to the board as well as a final one showing the board in operation with its signal being picked up by my HackRF One.
 
 **[Continue reading --->](posts/2022/2022-01-16-cricket-80a-soldering.md)**
-
-----
-
-#### 15.01.2022
-### Adventures in 3D Printing: VFD Clock Minimalist Housing
-
-![GIF of VFD clock](posts/2022/media/vfd_clock/vfd_header.GIF)
-
-I'm not sure if anyone reading this is aware, but I [really](../2013/2013-02-19-more-closet-treasures-fossil-abacus.md) [like](../2020/2020-04-08-nixie-tube-box-case-part-1.md) [timekeeping](../2020/2020-09-08-casio-pro-trek-prw-3100-review.md) [devices](../2020/2020-03-30-rgb-wall-display-board-part-3.md).  While I have a soft spot for all things mechanical, I do enjoy the myriad of "digital" display technologies that can be employed by clock circuitry.  One of those happens to be the basically-obsolete VFD (vacuum flourescent display) tube.  Similar to the modern AMOLED panel, the pixels in the matrix of a VFD are self-emitting.  Unlike the more modern counterpart, VFDs require significantly higher voltage similar to that of a Nixie tube.
-
-A couple of years ago, whilst trawling the open waters of the internet (read: AliExpress), I stumbled across a simple and cheap VFD clock.  While it's not the most intricate VFD clock out there, I was rather struck by its legible display reminding me quite a bit of the one adorning the face of my grandfather's HiFi audio amplifier.  In-person it was quite enjoyable to look at, but unfortunately it stopped working reliably after a few months.  Being unable to troubleshoot it myself, I took the circuitry and display out of its extruded aluminum housing to save space and put it into my parts bin.
-
-**[Continue reading --->](posts/2022/2022-01-15-vfd-clock-frame.md)**
 
 ----
 
