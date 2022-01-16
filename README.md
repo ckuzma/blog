@@ -4,6 +4,19 @@
 ----
 
 #### 16.01.2022
+### Adventures in 3D Printing: Garage Remote Fob Holder
+
+![Finished holder](posts/2022/media/garage_fob/img001.jpeg)
+
+Partially as an experiment, and partially because I was fed up of my apartment building's garage door remote fob working itself into hard-to-reach places, I decided to make [a project out of designing and printing a clip for the darn thing](https://github.com/ckuzma/garage-door-keyfob-holder) that would enable me to attach it somewhere convenient in my car and trust it to remain there.
+
+One of the requirements I placed on myself was to somehow mimic a "traditional" garage door remote-- those non-descript black boxes with flexible steel clips attached to them-- while also using as little print material as possible.  I also wanted to give some of these away to friends of mine in the building so it also needed to look refined enough that they would actually use it and not just chuck it in the trash.
+
+**[Continue reading --->](posts/2022/2022-01-16-garage-fob-holder.md)**
+
+----
+
+#### 16.01.2022
 ### Photos: Cricket 80A Soldering Project
 
 ![cricket_80a_01.jpg](posts/2022/media/cricket_80a/cricket_80a_01.jpg)
@@ -45,21 +58,6 @@ That just-mentioned important purpose makes itself known immediately in that the
 The gist of the assembly experience this time around is: unpack all of the components from the product packaging, connect the blue loudspeaker to the computer's exposed motherboard via an internal 2.5mm audio jack, plug in the red lithium-ion battery via a neighboring USB-C port, and then snap on the clear plastic housing to keep everything protected.  That's it.  No miniscule Micro SD cards to lose under the couch, no RAM cards to install, no fiddly ribbon cables or power lines to mess with this go around.
 
 **[Continue reading --->](posts/2021/2021-12-27-kano-pc-review.md)**
-
-----
-
-#### 17.07.2021
-### Adventures in 3D Printing: Dipole Antenna
-
-![Finished dipole and mount on railing](posts/2021/media/dipole/finished_02.png)
-
-> The completed dipole antenna and railing bracket / arms mounted to the railing of my apartment's balcony.
-
-During the winter of 2020 I decided to jump into a new hobby: amateur radio.  My first contacts were made with a Baofeng UV-5R, the same handheld transceiver that many HAMs get started with these days.  However it wasn't long until I began to lament the inconveniences of using an HT ("Handy Talkie" in HAM parlance).  Standing in just the right spot to transmit and receive successfully meant I rarely attempted a simplex conversation with my licensed coworker just down the road, and partaking in the evenings nets on the local repeater was usually limited to an in-and-out check-in.
-
-The obvious solution to me at the time was to fit a better antenna on my radio.  While this did seem to help marginally, the almost-a-faraday-cage that was my apartment rendered the upgrade mostly moot.  What I thus decided I needed was a more powerful radio transceiver and a fixed external antenna.  While the former would require significant work to build myself, I decided that I was handy enough to design and create the latter with ease.
-
-**[Continue reading --->](posts/2021/2021-07-17-dipole.md)**
 
 ----
 
