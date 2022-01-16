@@ -4,6 +4,17 @@
 ----
 
 #### 16.01.2022
+### Teardown: HackRF One Portapack H2
+
+In [a recent previous post documenting the assembly of an amateur radio transceiver kit](2022-01-16-cricket-80a-soldering.md), I shared a picture depicting the functional operation of the completed radio.  Specifically, I utilized the display on a a HackRF One in a Portpack H2 housing to demonstrate the transceiver's transmission within the expected frequency band, as well as functioning on/off pulses as is required for CW mode communication.
+
+What I neglected to do at the time was hint that the assembled Cricket was not the only radio transceiver in the photo that had required a bit of DIY handiwork.  For, you see, the HackRF device itself had required a bit of repair/improvement, too.  Namely: when I received it, I was rather stunned by what sounded like a loose battery rattling around inside.  Given the propensity of Lithium batteries to do alarming things when damaged or even looked at for too long, I decided to rip apart my (preassembled) Portapack H2 to figure out some way to protect its heart.
+
+**[Continue reading --->](posts/2022/2022-01-16-portapack-fix.md)**
+
+----
+
+#### 16.01.2022
 ### Adventures in 3D Printing: Garage Remote Fob Holder
 
 ![Finished holder](posts/2022/media/garage_fob/img001.jpeg)
@@ -37,27 +48,6 @@ I'm not sure if anyone reading this is aware, but I [really](../2013/2013-02-19-
 A couple of years ago, whilst trawling the open waters of the internet (read: AliExpress), I stumbled across a simple and cheap VFD clock.  While it's not the most intricate VFD clock out there, I was rather struck by its legible display reminding me quite a bit of the one adorning the face of my grandfather's HiFi audio amplifier.  In-person it was quite enjoyable to look at, but unfortunately it stopped working reliably after a few months.  Being unable to troubleshoot it myself, I took the circuitry and display out of its extruded aluminum housing to save space and put it into my parts bin.
 
 **[Continue reading --->](posts/2022/2022-01-15-vfd-clock-frame.md)**
-
-----
-
-#### 27.12.2021
-### Kano PC Review
-
-![kano pc](posts/2021/media/kano/01.jpeg)
-
-# Introduction
-
-The Kano PC is perhaps best described as a full-fledged modular Windows tablet-computer designed for kids.  It features an Intel Celeron CPU, 4GB of RAM, 64GB of eMMC solid-state storage, an 11.6" touchscreen and a case that doubles as a keyboard reminiscent of a Microsoft Surface device.  But far more important than the device's hardware specifications is its purpose: to inspire curious minds.
-
-# Unboxing and Assembly
-
-That just-mentioned important purpose makes itself known immediately in that the Kano PC ships unassembled.  That is to say, partly unassembled.  Compared to the previous Raspberry Pi-based computers released under the Kano name, the Kano PC is not quite as demanding when it comes to its assembly procedure.  Perhaps that's a good thing, as Kano's previous offerings were potentially too complicated and fragile even for the parents of the target age audience.
-
-![silkscreen micro sd details](posts/2021/media/kano/14.jpeg)
-
-The gist of the assembly experience this time around is: unpack all of the components from the product packaging, connect the blue loudspeaker to the computer's exposed motherboard via an internal 2.5mm audio jack, plug in the red lithium-ion battery via a neighboring USB-C port, and then snap on the clear plastic housing to keep everything protected.  That's it.  No miniscule Micro SD cards to lose under the couch, no RAM cards to install, no fiddly ribbon cables or power lines to mess with this go around.
-
-**[Continue reading --->](posts/2021/2021-12-27-kano-pc-review.md)**
 
 ----
 
