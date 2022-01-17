@@ -47,4 +47,4 @@ After what probably amounted to a few weeks' pause on the project, I revised the
 
 Here you can see that the mount itself was elongated upwards to interface with a "stand" (read: the inner top of the clock) for secure retention.  It was also a nice test to make sure that my mount was actually sturdy enought to support the weight of the movement without excessive flexing due to stress.
 
-_**3D Printed Carriage Clock Part 2** coming soon!_  That's it for now!
+[_3D Printed Carriage Clock Part 2_](2022-01-17-carriage-clock-pt2.md)

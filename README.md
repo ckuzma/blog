@@ -3,6 +3,17 @@
 
 ----
 
+#### 17.01.2022
+### 3D Printed Carriage Clock Part 2
+
+Having previously [designed and printed a functional movement mount and interlocking system](posts/2022/2022-01-16-carriage-clock-pt1.md) to attach it to the rest of the clock, I was ready to move forward with the rest of the clock body.  Namely the housing/case with its windows and access door.  I happened to have some "spare" white PLA filament and knowing the likelihood that components would have to be printed twice due to unaccounted-for stresses and tolerance variances, I decided to print out my work-in-progress CAD model to see how everything fit together.
+
+![carriage clock in white](posts/2022/media/carriage_clock/IMG_2541.jpeg)
+
+**[Continue reading --->](posts/2022/2022-01-17-carriage-clock-pt2.md)**
+
+----
+
 #### 16.01.2022
 ### 3D Printed Carriage Clock Part 1
 
@@ -39,17 +50,6 @@ Partially as an experiment, and partially because I was fed up of my apartment b
 One of the requirements I placed on myself was to somehow mimic a "traditional" garage door remote-- those non-descript black boxes with flexible steel clips attached to them-- while also using as little print material as possible.  I also wanted to give some of these away to friends of mine in the building so it also needed to look refined enough that they would actually use it and not just chuck it in the trash.
 
 **[Continue reading --->](posts/2022/2022-01-16-garage-fob-holder.md)**
-
-----
-
-#### 16.01.2022
-### Photos: Cricket 80A Soldering Project
-
-![cricket_80a_01.jpg](posts/2022/media/cricket_80a/cricket_80a_01.jpg)
-
-There's not much of a story to go with this post, I just thought it would be fun to share some photos.  As a result of my participation in a Hackster contest, I found myself sitting upon some [Tindie](https://www.tindie.com) store credit and decided to put it towards a [Cricket 80A, a ham radio transceiver designed by "NMØS"](http://4sqrp.com/cricket.php) for CW (read: Morse) operation.  What follows are some photos taken while I was soldering components to the board as well as a final one showing the board in operation with its signal being picked up by my HackRF One.
-
-**[Continue reading --->](posts/2022/2022-01-16-cricket-80a-soldering.md)**
 
 ----
 
