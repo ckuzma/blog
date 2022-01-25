@@ -3,6 +3,20 @@
 
 ----
 
+#### 24.01.2022
+### 3D Printed Carriage Clock Part 3
+
+[_3D Printed Carriage Clock Part 2_](posts/2022/2022-01-17-carriage-clock-pt2.md)
+
+![new_design](posts/2022/media/carriage_clock/IMG_3102.png)
+
+
+In the [last installment of my 3D printed carriage clock project](posts/2022/2022-01-17-carriage-clock-pt2.md) I discovered that there were a number of fitment issues with my design and had decided to start with a clean slate and a focus on refinement.  To that end it was no longer acceptable for the clock to simply look like a box; it needed to actually resemble the carriage clocks of old once it was put together.  Additionally I wanted each major component to be easily replaced in case any of my prints failed or the part itself broke during assembly.
+
+**[Continue reading --->](posts/2022/2022-01-24-carriage-clock-pt3.md)**
+
+----
+
 #### 17.01.2022
 ### 3D Printed Carriage Clock Part 2
 
@@ -37,19 +51,6 @@ In [a recent previous post documenting the assembly of an amateur radio transcei
 What I neglected to do at the time was hint that the assembled Cricket was not the only radio transceiver in the photo that had required a bit of DIY handiwork.  For, you see, the HackRF device itself had required a bit of repair/improvement, too.  Namely: when I received it, I was rather stunned by what sounded like a loose battery rattling around inside.  Given the propensity of Lithium batteries to do alarming things when damaged or even looked at for too long, I decided to rip apart my (preassembled) Portapack H2 to figure out some way to protect its heart.
 
 **[Continue reading --->](posts/2022/2022-01-16-portapack-fix.md)**
-
-----
-
-#### 16.01.2022
-### Adventures in 3D Printing: Garage Remote Fob Holder
-
-![Finished holder](posts/2022/media/garage_fob/img001.jpeg)
-
-Partially as an experiment, and partially because I was fed up of my apartment building's garage door remote fob working itself into hard-to-reach places, I decided to make [a project out of designing and printing a clip for the darn thing](https://github.com/ckuzma/garage-door-keyfob-holder) that would enable me to attach it somewhere convenient in my car and trust it to remain there.
-
-One of the requirements I placed on myself was to somehow mimic a "traditional" garage door remote-- those non-descript black boxes with flexible steel clips attached to them-- while also using as little print material as possible.  I also wanted to give some of these away to friends of mine in the building so it also needed to look refined enough that they would actually use it and not just chuck it in the trash.
-
-**[Continue reading --->](posts/2022/2022-01-16-garage-fob-holder.md)**
 
 ----
 
