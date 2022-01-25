@@ -4,7 +4,7 @@
 ----
 
 #### 24.01.2022
-### 3D Printed Carriage Clock Part 3
+### [3D Printed Carriage Clock Part 3](posts/2022/2022-01-24-carriage-clock-pt3.md)
 
 [_3D Printed Carriage Clock Part 2_](posts/2022/2022-01-17-carriage-clock-pt2.md)
 
@@ -18,7 +18,7 @@ In the [last installment of my 3D printed carriage clock project](posts/2022/202
 ----
 
 #### 17.01.2022
-### 3D Printed Carriage Clock Part 2
+### [3D Printed Carriage Clock Part 2](posts/2022/2022-01-17-carriage-clock-pt2.md)
 
 Having previously [designed and printed a functional movement mount and interlocking system](posts/2022/2022-01-16-carriage-clock-pt1.md) to attach it to the rest of the clock, I was ready to move forward with the rest of the clock body.  Namely the housing/case with its windows and access door.  I happened to have some "spare" white PLA filament and knowing the likelihood that components would have to be printed twice due to unaccounted-for stresses and tolerance variances, I decided to print out my work-in-progress CAD model to see how everything fit together.
 
@@ -29,7 +29,7 @@ Having previously [designed and printed a functional movement mount and interloc
 ----
 
 #### 16.01.2022
-### 3D Printed Carriage Clock Part 1
+### [3D Printed Carriage Clock Part 1](posts/2022/2022-01-16-carriage-clock-pt1.md)
 
 ![clear alarm clock](posts/2022/media/carriage_clock/IMG_2252.jpeg)
 
@@ -44,7 +44,7 @@ Now, as an adult, armed with a 3D printer and mechanical clock movement, I think
 ----
 
 #### 16.01.2022
-### Teardown: HackRF One Portapack H2
+### [Teardown: HackRF One Portapack H2](posts/2022/2022-01-16-portapack-fix.md)
 
 In [a recent previous post documenting the assembly of an amateur radio transceiver kit](2022-01-16-cricket-80a-soldering.md), I shared a picture depicting the functional operation of the completed radio.  Specifically, I utilized the display on a a HackRF One in a Portpack H2 housing to demonstrate the transceiver's transmission within the expected frequency band, as well as functioning on/off pulses as is required for CW mode communication.
 
