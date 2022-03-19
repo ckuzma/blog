@@ -3,6 +3,17 @@
 
 ----
 
+#### 19.03.2022
+### [Current State of the 3D-Printed Carriage Clock](./posts/2022/2022-03-19-carriage-clock-currently.md)
+
+![carriage clock](./posts/2022/media/carriage_clock/IMG_3110.jpeg)
+
+Building on [the last installment of my writeup about the 3D printed carriage clock project](./posts/2022/2022-01-24-carriage-clock-pt3.md), I thought I'd share some photos of the current state of of the project for anyone who is curious to see some of the finer details.  What follows is a simple gallery of the clock as it existed before being packed into storage as part of my move across the country.  Fingers crossed that it will be in the same state when I unpack it within the next month or two!
+
+**[Continue reading --->](./posts/2022/2022-03-19-carriage-clock-currently.md)**
+
+----
+
 #### 18.03.2022
 ### [Afternoon Project: HMT Watch Regulation](posts/2022/2022-03-18-hmt-tuning.md)
 
@@ -38,21 +49,6 @@ Having previously [designed and printed a functional movement mount and interloc
 ![carriage clock in white](posts/2022/media/carriage_clock/IMG_2541.jpeg)
 
 **[Continue reading --->](posts/2022/2022-01-17-carriage-clock-pt2.md)**
-
-----
-
-#### 16.01.2022
-### [3D Printed Carriage Clock Part 1](posts/2022/2022-01-16-carriage-clock-pt1.md)
-
-![clear alarm clock](posts/2022/media/carriage_clock/IMG_2252.jpeg)
-
-Have I ever mentioned before that I really like [timekeeping devices](2022-01-15-vfd-clock-frame.md)?  Even though my first ever wristwatch was, if I remember correctly, a Timex with a digital display, I have always been absolutely enamored by the purely mechanical variety.  That's not to say I can't appreciate a decent [digital](../2020/2020-09-08-casio-pro-trek-prw-3100-review.md), [quartz](../2011/2011-12-30-invicta-3449-review.md), or mecha-quartz timepiece, mind you.  I just love the history, intricacy, and rythmic ticking of a mechanical watch or clock.  Even though they lag in accuracy and must be wound up daily (or worn, in the case of an automatic), I enjoy them immensely.
-
-One can ~~blame~~ credit my parents for this love affair of mine.  From the ancient grandfather clock adjacent to the not-so-ancient grand piano in the living room of their house to the assortment of antique wall clocks forming an ensemble in the main hallway, I've always been surrounded by mechanical wonders.  While not all of them worked, I found myself drawn to my father's surprisingly-functional brass Waterbury carriage clock.  Small enough to be held in one hand yet dense enough to sit solidly atop a stack of papers, I remember spending a full week regulating its escapement to be more or less accurate, MacGyvering a non-permanent paperclip-based fix for the sheared-off pins of the rear door, and generally spending hours staring at the little movement ticking away when I should have been focused on my math homework instead.
-
-Now, as an adult, armed with a 3D printer and mechanical clock movement, I think you can see where this is going.
-
-**[Continue reading --->](posts/2022/2022-01-16-carriage-clock-pt1.md)**
 
 ----
 
