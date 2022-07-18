@@ -3,6 +3,19 @@
 
 ----
 
+#### 18.07.2022
+### [3D Printed Odds and Ends](./posts/2022/2022-07-18-3d-printed-odds-ends.md)
+
+![Pile of 3d printed parts](./posts/2022/media/3d_printed_odds_ends/IMG_1920.jpeg)
+/media/3d_printed_odds_ends/IMG_1920.jpeg
+Back in November, as I was packing my apartment in prep for a move across the country, I stumbled across my box of 3D printed odds and ends.  Due largely in part to my reluctance to purchase even the cheapest of measurement calipers, I relied heavily on part "test fits" to make sure everything would come together as expected.  This was especially handy in the case of the [dipole antenna project](./posts/2021/2021-07-17-dipole.md) which incorporated slotted parts, plastic "dowels", and a custom fit railing clamp as part of the full design.
+
+However, as a result, I wound up with a bunch of small 3D printed objects that aren't especially useful for anything anymore besides to serve as a memento.  What follows are pictures of some of the items I found in that box of mementos, along with links to the projects from which they came to be.
+
+**[Continue reading --->](./posts/2022/2022-07-18-3d-printed-odds-ends.md)**
+
+----
+
 #### 19.03.2022
 ### [Current State of the 3D-Printed Carriage Clock](./posts/2022/2022-03-19-carriage-clock-currently.md)
 
@@ -38,17 +51,6 @@ Unfortunately I don't think I'll be wearing this watch very often.  While it is 
 In the [last installment of my 3D printed carriage clock project](posts/2022/2022-01-17-carriage-clock-pt2.md) I discovered that there were a number of fitment issues with my design and had decided to start with a clean slate and a focus on refinement.  To that end it was no longer acceptable for the clock to simply look like a box; it needed to actually resemble the carriage clocks of old once it was put together.  Additionally I wanted each major component to be easily replaced in case any of my prints failed or the part itself broke during assembly.
 
 **[Continue reading --->](posts/2022/2022-01-24-carriage-clock-pt3.md)**
-
-----
-
-#### 17.01.2022
-### [3D Printed Carriage Clock Part 2](posts/2022/2022-01-17-carriage-clock-pt2.md)
-
-Having previously [designed and printed a functional movement mount and interlocking system](posts/2022/2022-01-16-carriage-clock-pt1.md) to attach it to the rest of the clock, I was ready to move forward with the rest of the clock body.  Namely the housing/case with its windows and access door.  I happened to have some "spare" white PLA filament and knowing the likelihood that components would have to be printed twice due to unaccounted-for stresses and tolerance variances, I decided to print out my work-in-progress CAD model to see how everything fit together.
-
-![carriage clock in white](posts/2022/media/carriage_clock/IMG_2541.jpeg)
-
-**[Continue reading --->](posts/2022/2022-01-17-carriage-clock-pt2.md)**
 
 ----
 
