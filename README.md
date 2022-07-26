@@ -3,6 +3,19 @@
 
 ----
 
+#### 26.07.2022
+### [Tube Amplifier Project](./posts/2022/2022-07-26-tube-amplifier-project.md)
+
+![initial_sketch](./posts/2022/media/tube-amp-case/initial_sketch.png)
+
+One of the projects I've been carrying around with me for the past few months, waiting for the day when I was reunited with my [very cool PINECIL soldering iron](https://pine64.com/product/pinecil-smart-mini-portable-soldering-iron/), has been a cheap tube-based(-ish) audio preamplifier kit.  Why would someone want such a thing when arguably much better solid-state versions exist nowadays?  Not sure.  But I thought it looked neat, so I ordered myself one and then it waited until two months ago when I was finally able to sit down and solder all of the components into place.
+
+However, there was no housing included with the kit and I had intentionally opted against purchasing the made-to-fit acrylic housing sold by the manufacturer, instead desiring to design and print something of my own creation.  And that's what can be found in my latest 3D printing project here on GitHub:
+
+- [tube-preamp-housing](https://github.com/ckuzma/tube-preamp-housing)
+
+----
+
 #### 18.07.2022
 ### [3D Printed Odds and Ends](./posts/2022/2022-07-18-3d-printed-odds-ends.md)
 
@@ -37,20 +50,6 @@ Perhaps against my better judgement I ordered myself a "refurbished" HMT wristwa
 As it turns out, you get what you pay for.  My particular watch's case turned out not to be water or dust resistant in the slightest, the crystal has a habit of popping off if it is knocked just right, the hour hand doesn't exactly line up with the dial's indices and the movement in mine was running worryingly slow.  Removing the screwdown caseback revealed a surprisingly corroded movement spacer but an otherwise okay-looking movement.  A few days and some fine adjustments of the regulator and I had the watch keeping acceptable time.  (Meaning, for me, a few seconds fast per day.)
 
 Unfortunately I don't think I'll be wearing this watch very often.  While it is quite thin and comfortable I simply can't help but worry about it in ways that never even cross my mind when I'm wearing the G-Shock from the picture above.  So for now, this little hand-wound piece is relegated to the watch case where it stands as the only HMT in my collection.
-
-----
-
-#### 24.01.2022
-### [3D Printed Carriage Clock Part 3](posts/2022/2022-01-24-carriage-clock-pt3.md)
-
-[_3D Printed Carriage Clock Part 2_](posts/2022/2022-01-17-carriage-clock-pt2.md)
-
-![new_design](posts/2022/media/carriage_clock/IMG_3102.png)
-
-
-In the [last installment of my 3D printed carriage clock project](posts/2022/2022-01-17-carriage-clock-pt2.md) I discovered that there were a number of fitment issues with my design and had decided to start with a clean slate and a focus on refinement.  To that end it was no longer acceptable for the clock to simply look like a box; it needed to actually resemble the carriage clocks of old once it was put together.  Additionally I wanted each major component to be easily replaced in case any of my prints failed or the part itself broke during assembly.
-
-**[Continue reading --->](posts/2022/2022-01-24-carriage-clock-pt3.md)**
 
 ----
 
