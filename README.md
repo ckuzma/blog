@@ -3,6 +3,25 @@
 
 ----
 
+#### 21.11.2023
+### [3D Printed Projects](./posts/2023/2023-11-21-3d-printed-projects.md)
+
+The past year has been a busy time for me.  (This despite having been laid off from my shuttered company back in June.)  From making technical contributions to the tech stack behind the MVP of my brother's startup company to wrapping up my private pilot's license training in a more expedient manner, my daily routine has been anything but a vacation.  However now that the weather has turned for the season I find myself with a bit of free time to pursue the completion of existing and the exploration of new projects.
+
+To that end I have once again found myself in need of custom housings, the latest of which I feel compelled to talk about in a more casual manner than was found in each project's repository README file.
+
+![orange-pi-case](./posts/2023/media/orange-pi-case.jpeg)
+> https://github.com/ckuzma/opi-zero-3-case
+
+I picked up an Orange Pi Zero 3 board with the intention of loading Batocera OS on it and utilizing it as a retro gaming system.  Unfortunately my dream of casually replaying Super Mario Bros 3 with my now-retired neighbors wwas put on hold due to support not (yet) being out for the Zero 3 board.  However in the meantime I decided to set up the computer with Ubuntu on a spare monitor for guests to use, and this case was needed to keep the computer's electrical components free from harm.
+
+![electrical-box](./posts/2023/media/electrical-box.jpeg)
+> https://github.com/ckuzma/3d-electrical-box
+
+As stated in the project description, "From the very first moment I toured the house in which I currently live, I was annoyed by the eyesore that was the rat's nest of electrical twist ties holding together the HVAC system's low-voltage control lines."  This project was long overdue in terms of tidying up odds and ends around my aging house, especially before any potential showings were to happen should I find myself needing to move for my next work gig.
+
+----
+
 #### 26.07.2022
 ### [Tube Amplifier Project](./posts/2022/2022-07-26-tube-amplifier-project.md)
 
@@ -37,19 +56,6 @@ However, as a result, I wound up with a bunch of small 3D printed objects that a
 Building on [the last installment of my writeup about the 3D printed carriage clock project](./posts/2022/2022-01-24-carriage-clock-pt3.md), I thought I'd share some photos of the current state of of the project for anyone who is curious to see some of the finer details.  What follows is a simple gallery of the clock as it existed before being packed into storage as part of my move across the country.  Fingers crossed that it will be in the same state when I unpack it within the next month or two!
 
 **[Continue reading --->](./posts/2022/2022-03-19-carriage-clock-currently.md)**
-
-----
-
-#### 18.03.2022
-### [Afternoon Project: HMT Watch Regulation](posts/2022/2022-03-18-hmt-tuning.md)
-
-![HMT movement](posts/2022/media/hmt_watch/hmt01.gif)
-
-Perhaps against my better judgement I ordered myself a "refurbished" HMT wristwatch on eBay about two months ago.  A hand-wound, 17-jewel, Indian-made watch for less than $15 shipped?  I couldn't resist.
-
-As it turns out, you get what you pay for.  My particular watch's case turned out not to be water or dust resistant in the slightest, the crystal has a habit of popping off if it is knocked just right, the hour hand doesn't exactly line up with the dial's indices and the movement in mine was running worryingly slow.  Removing the screwdown caseback revealed a surprisingly corroded movement spacer but an otherwise okay-looking movement.  A few days and some fine adjustments of the regulator and I had the watch keeping acceptable time.  (Meaning, for me, a few seconds fast per day.)
-
-Unfortunately I don't think I'll be wearing this watch very often.  While it is quite thin and comfortable I simply can't help but worry about it in ways that never even cross my mind when I'm wearing the G-Shock from the picture above.  So for now, this little hand-wound piece is relegated to the watch case where it stands as the only HMT in my collection.
 
 ----
 
